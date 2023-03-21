@@ -6,14 +6,14 @@ import axios from "axios";
 
 export default function SearchFeed() {
   const { searchTerm } = useParams();
-  const {
-    isLoading,
-    error,
-    data: videos,
-  } = useQuery(["search", searchTerm], async () => {
-    const { res } = await axios.get("data/search.json");
-    return res.items;
-  });
+  // const {
+  //   isLoading,
+  //   error,
+  //   data: videos,
+  // } = useQuery(["search", searchTerm], async () => {
+  //   const { res } = await axios.get("data/search.json");
+  //   return res.items;
+  // });
   return (
     <div>
       <></>

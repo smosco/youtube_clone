@@ -1,19 +1,37 @@
 import React from "react";
 import { Outlet } from "react-router-dom";
+import { createBrowserRouter, RouterProvider } from "react-router-dom";
+
 import Navbar from "./components/Navbar";
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
-import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
+import Feed from "./pages/Feed";
+import NotFound from "./pages/NotFound";
+import VideoDetail from "./pages/VideoDetail";
+import ChannelDetail from "./pages/ChannelDetail";
+import SearchFeed from "./pages/SearchFeed";
 
-const queryClient = new QueryClient();
-
-export default function App() {
+const Layout = () => {
   return (
     <>
       <Navbar />
-      <QueryClientProvider client={queryClient}>
-        <Outlet />
-        <ReactQueryDevtools initialIsOpen={true} />
-      </QueryClientProvider>
+      <Outlet />
     </>
   );
+};
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <Layout />,
+    errorElement: <NotFound />,
+    children: [
+      { index: true, element: <Feed /> },
+      { path: "/video/:videoId", element: <VideoDetail /> },
+      { path: "/search/:searchTerm", element: <SearchFeed /> },
+      { path: "/channel/:channelId", element: <ChannelDetail /> },
+    ],
+  },
+]);
+
+export default function App() {
+  return <RouterProvider router={router} />;
 }
