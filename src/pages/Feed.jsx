@@ -1,35 +1,21 @@
-import React, { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react";
+import { fetchFromAPI } from "../utils/fetchFromAPI";
+import { fakeFetch } from "../utils/fetchFromAPI";
+import Videos from "../components/Videos";
 
-import VideoCard from "../components/VideoCard";
-import Loading from "../components/Loading";
-import axios from "axios";
 export default function Feed() {
-  const fetchFromAPI = async () => {
-    const { data } = await axios.get("data/trend.json");
-    return data.items;
-  };
+  const [videos, setVideos] = useState([]);
+  console.log(videos);
 
-  // const {
-  //   isLoading,
-  //   error,
-  //   data: videos,
-  // } = useQuery(["videos"], async () => {
-  //   const { data } = await axios.get("data/trend.json");
-  //   return data.items;
-  //   //return fetchFromAPI();
-  // });
-
+  useEffect(() => {
+    // fetchFromAPI("search?part=snippet&q=bts&maxResults=50").then((data) =>
+    //   setVideos(data)
+    // );
+    fakeFetch("data/search.json").then((data) => setVideos(data));
+  }, []);
   return (
-    <div>
-      {/* {isLoading && <Loading />}
-      {error && <p>something is wrong</p>}
-      {videos && (
-        <ul>
-          {videos.map((video) => (
-            <VideoCard key={video.id} video={video} />
-          ))}
-        </ul>
-      )} */}
-    </div>
+    <>
+      <Videos videos={videos} />
+    </>
   );
 }
