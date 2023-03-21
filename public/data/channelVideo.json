@@ -1,0 +1,225 @@
+{
+  "kind": "youtube#channelSectionListResponse",
+  "etag": "MnM0e15LxARUp_DkpfPAMOIEdPE",
+  "items": [
+    {
+      "kind": "youtube#channelSection",
+      "etag": "K8RuMvmINfliAL0p4_Pvqa-EcLY",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.jNQXAC9IVRw",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "position": 0
+      },
+      "contentDetails": {
+        "playlists": ["PLWz5rJ2EKKc92MGTd1CgUtXZfhA74nUpb"]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "7njfg0YQr8NFqzXJhSPPIdlk-BI",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.LeAltgu_pbM",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "position": 1
+      },
+      "contentDetails": {
+        "playlists": ["PLl-K7zZEsYLlSZJCc2Wu0zp06M-J-gC5_"]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "PNRkGyK9aOuLNsls2MzIQOUmDV4",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.nGzAI5pLbMY",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "position": 2
+      },
+      "contentDetails": {
+        "playlists": ["PLOU2XLYxmsIJutLlv24ZvhYz84ITfQOai"]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "FaBrHX03R4GVAI0pTG9u8EWvQXM",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.__WLXNpu6u8",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "position": 3
+      },
+      "contentDetails": {
+        "playlists": ["PLOU2XLYxmsII8REpkzsy1bJHj6G1WEVA1"]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "DSAb2bCoL3yGCr_cMurfyYBVJLA",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.Zx4DA4xg9IM",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "position": 4
+      },
+      "contentDetails": {
+        "playlists": ["PLOU2XLYxmsIK6HyKuHTRDCMxkOPFB2vfp"]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "BAIsKHd7yJW9nQgJPwMnU3Rkv10",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.MykmTeTiooA",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "position": 5
+      },
+      "contentDetails": {
+        "playlists": ["PLNBb8OktVDKs5Y1zdymbGfvWeVR4aYIJY"]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "zJaZUjo-UjZP1gAE8iuKderDV2I",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.iJLXf_7B368",
+      "snippet": {
+        "type": "singleplaylist",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "position": 6
+      },
+      "contentDetails": {
+        "playlists": ["PLOU2XLYxmsIJZVnmfwfcBhVIVfk1Ql4Do"]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "w4BVC3Ej9Ool5xu9FQ6o0xyC_hQ",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.UgY69lf0UCE",
+      "snippet": {
+        "type": "multipleplaylists",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Products Featured",
+        "position": 7
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLOU2XLYxmsIL32BnYVuSqwgS0ClB_csKd",
+          "PLOU2XLYxmsILkNW9d1Jw9rHLAEORuuS-9",
+          "PLOU2XLYxmsIKgPTizdYWPPYEpU96FCJrQ",
+          "PLOU2XLYxmsIJ5qQKAYt45zZNMU9h1Grpm",
+          "PLOU2XLYxmsILJWy1k3BO7dScDSPL4KM2e",
+          "PLOU2XLYxmsIL5MoZ5LrrxfVk3V04evsMm",
+          "PLOU2XLYxmsILfV1LiUhDjbh1jkFjQWrYB",
+          "PLOU2XLYxmsIJziKF4hb1GDmQM5WzjKCQP",
+          "PLOU2XLYxmsILfLmj3QQlV6QrPRvoJ7vCi",
+          "PLOU2XLYxmsIKRSINXD5hR6dvWaACAGjD3",
+          "PLOU2XLYxmsIJ8ItHmK4bRlY4GCzMgXLAJ",
+          "PLjxrf2q8roU3X18pAQWLyCJaa79RpqWnn",
+          "PLNYkxOF6rcIAcezfL8q0rjt13ufKseL5X",
+          "PLWz5rJ2EKKc9Ty3Zl1hvMVUsXfkn93NRk",
+          "PLWz5rJ2EKKc_vmK_ZwtyM08GzUxKltSTp"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "hPmxLCS4-T5h5qF9zKN5McjW2pI",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.ebKlgRwnpFY",
+      "snippet": {
+        "type": "multipleplaylists",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Google I/O 2022",
+        "position": 8
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLOU2XLYxmsILw2VmhxUWyd_imCrJef_iz",
+          "PLOU2XLYxmsIKp3tmkGM6NNkP28ZetfGDX",
+          "PLOU2XLYxmsIJyFhZ-tuzioCRpDumYK9Bi",
+          "PLOU2XLYxmsIJk4cldTzDX8QbUh80kSyWM",
+          "PLOU2XLYxmsILxA2bQ2zNylxpjso-CCKds",
+          "PLWz5rJ2EKKc_gLZhqjTRn0vGssFiP_4Kb",
+          "PLQY2H8rRoyvyY0AsvPIkb7rg7ogc5dgXW",
+          "PLIivdWyY5sqIYXOv1I0Fl29aCAhLUMxlI",
+          "PLjxrf2q8roU1kHjuHoFGBLCxjy4h2WOcP",
+          "PLl-K7zZEsYLnafsAWcibAE41SQz2Wmva-",
+          "PLsoLz-E4Os4VCY9T9tvanE5Tf9EGbHBtz",
+          "PLOU2XLYxmsIJXeWCXZOAqbBMWq2JYCI0f"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "F6Z0rYO8s94Uya5FA4jpH5AOvE0",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.aqsRo9JYx5M",
+      "snippet": {
+        "type": "multipleplaylists",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Events and Conferences",
+        "position": 9
+      },
+      "contentDetails": {
+        "playlists": [
+          "PLOU2XLYxmsIL-oBUVclcLp0zi2FW-ry4Z",
+          "PLOU2XLYxmsILw2VmhxUWyd_imCrJef_iz",
+          "PLxNYxgaZ8Rsc3auKhtfIB4qXAYf7whEux",
+          "PLNYkxOF6rcIBju4hD9ed1pt6YO20LgLWg",
+          "PLl-K7zZEsYLmK7Y_euagUdfKe1YXpAvxN",
+          "PLWz5rJ2EKKc_KamvEnBDJrBptAfQni7Ig",
+          "PLOU2XLYxmsILEbh0ykPF6xNbWNanY8LlU",
+          "PLQY2H8rRoyvwPltEE64LkjMhLvxib8IRT",
+          "PLIivdWyY5sqK5sIM83V8rOHWMoXaA2m4H",
+          "PLOU2XLYxmsIK3Mq1itovZMQkKEkBYamG0",
+          "PLOU2XLYxmsIJq-gUg6ouMqUdRXa3QGBbT",
+          "PLOU2XLYxmsIJhsF3up2ueu2pRealr9raD",
+          "PLjxrf2q8roU21cXt24HLm-ZODXmr4Jw0C",
+          "PLWz5rJ2EKKc98J4VE1glWGt5b90VfXZ1e",
+          "PLxNYxgaZ8RseRybXNbopHRv6-wGmFr04n",
+          "PLNYkxOF6rcIDzLmWaDwfHVZJl1Q5RFgOR",
+          "PLl-K7zZEsYLlRjj-mSComCq3Vd4IJese1",
+          "PLQY2H8rRoyvzuJw20FG82Lgm2SZjTdIXU",
+          "PLOU2XLYxmsILpqBa1Xpzr3EkMdkMRsi6T",
+          "PLjxrf2q8roU0o0wKRJTjyN0pSUA6TI8lg",
+          "PLQY2H8rRoyvxcmHHRftsuiO1GyinVAwUg",
+          "PLWz5rJ2EKKc_xXXubDti2eRnIKU0p7wHd",
+          "PLOU2XLYxmsILVTiOlMJdo7RQS55jYhsMi",
+          "PLIivdWyY5sqIXvUGVrFuZibCUdKVzEoUw"
+        ]
+      }
+    },
+    {
+      "kind": "youtube#channelSection",
+      "etag": "bxpfSdqtCNqnPBmHhhesnS1wTjg",
+      "id": "UC_x5XG1OV2P6uZZ5FSM9Ttw.XgM4c0oGu94",
+      "snippet": {
+        "type": "multiplechannels",
+        "channelId": "UC_x5XG1OV2P6uZZ5FSM9Ttw",
+        "title": "Featured Channels",
+        "position": 10
+      },
+      "contentDetails": {
+        "channels": [
+          "UCdIiCSqXuybzwGwJwrpHPqw",
+          "UCO5cgpkcYjnsdxZdEDR3Jog",
+          "UCwXdFgeE9KYzlDdR7TG9cMw",
+          "UCXZNlYNefXV3iMcyzszt_9Q",
+          "UCP4bf6IHJJQehibu6ai__cg",
+          "UCVHFbqXqoYvEWM1Ddxl0QDg",
+          "UCVhDYDVo3AqyMIKtMLSrcEg",
+          "UCnUYZLuoy1rq1aVMwx4aTzw",
+          "UC0rqucBdTuFTjJiefW5t-IQ",
+          "UCcnSNQb0tLVd8uT7gzI8duA",
+          "UC8QMvQrV1bsK7WO37QpSxSg",
+          "UCXPBsjgKKG2HqsKBhWA4uQw",
+          "UCJS9pqu9BzkAMNTmzNMNhvg",
+          "UCWf2ZlNsCGDS89VBF_awNvA",
+          "UC7BjFZywGHiqWdEF7SnQ7hQ",
+          "UCXDc-ckqru8BgppXbCt0APw",
+          "UCok4ZKSzM3jY7JQRMlF-DPg"
+        ]
+      }
+    }
+  ]
+}

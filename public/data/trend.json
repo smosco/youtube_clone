@@ -1,0 +1,1643 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "2gKY0kejKgA_2WwQZ4TPm5VnWJ8",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "Q9c2FfuzwqHfFPKiEJuPHtjuwZs",
+      "id": "g0xZ7Fw88Y8",
+      "snippet": {
+        "publishedAt": "2022-12-28T00:01:30Z",
+        "channelId": "UCJbYdyufHR-cxOuY96KIoqA",
+        "title": "AMP SECRET SANTA",
+        "description": "SHOUTOUT CASHAPP MANNN REPLY WITH YOUR FAV VID OF THE YEAR + $CASHTAG FOR A CHANCE TO WIN 1 of 3 FULL AMP APPAREL COLLECTIONS SHIPPED IN CUSTOM CRATE!!\n\nPODCAST STUDIO IS DONE!! SUB TO THE CHAN TRYNA HIT 100K BEFORE WE DROP https://www.youtube.com/channel/UC51ypdbMnEyRb9f9MCOg_Vg?sub_confirmation=1\n\nAMP AMP AMP AMP\n📸 Follow us on Instagram: https://www.instagram.com/ampexclusive\n🦅 Follow us on Twitter: https://twitter.com/ampexclusive\n\n⚡️⚡️AMP⚡️⚡️\n\n⚡️Fanum aka JustFanum\n🎥 https://www.youtube.com/c/FanumReacts/videos\n📸 https://www.instagram.com/elfanum/\n🦅 https://twitter.com/FanumTV\n\n⚡️Duke aka Duke Dennis\n🎥 https://www.youtube.com/c/DeeBlockDukeDennis\n📸 https://www.instagram.com/duke_dennis/\n🦅 https://twitter.com/ImDukeDennis\n\n⚡️Agent aka Agent 00\n🎥 https://www.youtube.com/user/CallMeAgent00\n📸 https://www.instagram.com/callmeagentzero/\n🦅 https://twitter.com/CallMeAgent00\n\n⚡️Davis aka ImDavisss\n🎥  https://www.youtube.com/c/ItsDavisss\n📸 https://www.instagram.com/imdavisssyt/\n🦅 https://twitter.com/imdavisss\n\n⚡️ Kai aka Kai Cenat\n🎥 https://www.youtube.com/c/KaiCenat\n📸 https://www.instagram.com/kai_cenattv/\n🦅 https://twitter.com/KaiCenat\n\n⚡️Chris aka chrisnxtdoor\n🎥 https://www.youtube.com/watch?v=yEREEVk06ZM\n📸 https://www.instagram.com/chrisnxtdoor_/\n🦅 https://twitter.com/chrisnxtdoor_",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/g0xZ7Fw88Y8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/g0xZ7Fw88Y8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/g0xZ7Fw88Y8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/g0xZ7Fw88Y8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/g0xZ7Fw88Y8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "AMP",
+        "tags": [
+          "AMP",
+          "AMP SECRET SANTA",
+          "AGENT 00",
+          "KAI CENAT",
+          "DUKE DENNIS",
+          "FANUM",
+          "CHRISNXTDOOR",
+          "IMDAVISSS",
+          "AMP CHRISTMAS"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "AMP SECRET SANTA",
+          "description": "SHOUTOUT CASHAPP MANNN REPLY WITH YOUR FAV VID OF THE YEAR + $CASHTAG FOR A CHANCE TO WIN 1 of 3 FULL AMP APPAREL COLLECTIONS SHIPPED IN CUSTOM CRATE!!\n\nPODCAST STUDIO IS DONE!! SUB TO THE CHAN TRYNA HIT 100K BEFORE WE DROP https://www.youtube.com/channel/UC51ypdbMnEyRb9f9MCOg_Vg?sub_confirmation=1\n\nAMP AMP AMP AMP\n📸 Follow us on Instagram: https://www.instagram.com/ampexclusive\n🦅 Follow us on Twitter: https://twitter.com/ampexclusive\n\n⚡️⚡️AMP⚡️⚡️\n\n⚡️Fanum aka JustFanum\n🎥 https://www.youtube.com/c/FanumReacts/videos\n📸 https://www.instagram.com/elfanum/\n🦅 https://twitter.com/FanumTV\n\n⚡️Duke aka Duke Dennis\n🎥 https://www.youtube.com/c/DeeBlockDukeDennis\n📸 https://www.instagram.com/duke_dennis/\n🦅 https://twitter.com/ImDukeDennis\n\n⚡️Agent aka Agent 00\n🎥 https://www.youtube.com/user/CallMeAgent00\n📸 https://www.instagram.com/callmeagentzero/\n🦅 https://twitter.com/CallMeAgent00\n\n⚡️Davis aka ImDavisss\n🎥  https://www.youtube.com/c/ItsDavisss\n📸 https://www.instagram.com/imdavisssyt/\n🦅 https://twitter.com/imdavisss\n\n⚡️ Kai aka Kai Cenat\n🎥 https://www.youtube.com/c/KaiCenat\n📸 https://www.instagram.com/kai_cenattv/\n🦅 https://twitter.com/KaiCenat\n\n⚡️Chris aka chrisnxtdoor\n🎥 https://www.youtube.com/watch?v=yEREEVk06ZM\n📸 https://www.instagram.com/chrisnxtdoor_/\n🦅 https://twitter.com/chrisnxtdoor_"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "sKdOtthJOE9nlNidJBL685S_0ms",
+      "id": "pnlylYnv3xg",
+      "snippet": {
+        "publishedAt": "2022-12-27T23:06:37Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Manchester United v. Nottingham Forest | PREMIER LEAGUE HIGHLIGHTS | 12/27/2022 | NBC Sports",
+        "description": "Marcus Rashford, Anthony Martial and Fred all found the net as Manchester United rolled to a comprehensive win against Nottingham Forest. #NBCSports #PremierLeague #ManUnited #NottinghamForest\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Watch Live Sports on NBCSports.com: http://www.nbcsports.com/live\n» Get more Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nWant more Premier League? Check out Peacock Premium: https://peacocktv.com/premierleague\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more.\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/\n\nhttps://www.nbcsports.com/nfl/sunday-night-football\nhttps://nbcsports.com/motors/nascar\nhttps://nbcsports.com/soccer/premier-league\n\nManchester United v. Nottingham Forest | PREMIER LEAGUE HIGHLIGHTS | 12/27/2022 | NBC Sports\nhttps://www.youtube.com/nbcsports",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pnlylYnv3xg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pnlylYnv3xg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pnlylYnv3xg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/pnlylYnv3xg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/pnlylYnv3xg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "tags": [
+          "nbc sports",
+          "nbc",
+          "premier",
+          "league",
+          "premier league",
+          "premier league highlights",
+          "english premier league",
+          "epl",
+          "premier league goals",
+          "premier league soccer",
+          "premier league live",
+          "english premier league live",
+          "english premier league today",
+          "premier league 2022/23",
+          "man utd",
+          "manchester united",
+          "man united",
+          "manchester united vs nottingham forest",
+          "manchester united highlights",
+          "manchester united vs nottingham forest highlights",
+          "nottingham forest highlights",
+          "marcus rashford",
+          "anthony martial",
+          "fred"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Manchester United v. Nottingham Forest | PREMIER LEAGUE HIGHLIGHTS | 12/27/2022 | NBC Sports",
+          "description": "Marcus Rashford, Anthony Martial and Fred all found the net as Manchester United rolled to a comprehensive win against Nottingham Forest. #NBCSports #PremierLeague #ManUnited #NottinghamForest\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Watch Live Sports on NBCSports.com: http://www.nbcsports.com/live\n» Get more Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nWant more Premier League? Check out Peacock Premium: https://peacocktv.com/premierleague\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more.\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/\n\nhttps://www.nbcsports.com/nfl/sunday-night-football\nhttps://nbcsports.com/motors/nascar\nhttps://nbcsports.com/soccer/premier-league\n\nManchester United v. Nottingham Forest | PREMIER LEAGUE HIGHLIGHTS | 12/27/2022 | NBC Sports\nhttps://www.youtube.com/nbcsports"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tbSx6m6eKpKDNhKX6JOl7Ir6JM4",
+      "id": "P0gnIS003qo",
+      "snippet": {
+        "publishedAt": "2022-12-27T19:16:40Z",
+        "channelId": "UCpB959t8iPrxQWj7G6n0ctQ",
+        "title": "TikToks Where You Have To Trust The Process",
+        "description": "TikToks Where You Have To Trust The Process! Leave a Like if you enjoyed and if you learned something from these tik tok memes! Watch the last tiktok vid https://youtu.be/8BK95eFWRfw Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P0gnIS003qo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P0gnIS003qo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P0gnIS003qo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/P0gnIS003qo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/P0gnIS003qo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SSSniperWolf",
+        "tags": [
+          "sssniperwolf",
+          "sniper wolf",
+          "reacting",
+          "reaction",
+          "funny",
+          "tiktok",
+          "tik tok",
+          "tiktok memes",
+          "memes"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TikToks Where You Have To Trust The Process",
+          "description": "TikToks Where You Have To Trust The Process! Leave a Like if you enjoyed and if you learned something from these tik tok memes! Watch the last tiktok vid https://youtu.be/8BK95eFWRfw Subscribe to SSSniperWolf to join the Wolf Pack http://bit.ly/SubSSSniperWolf\n\nTikTok: http://tiktok.com/@sssniperwolf\nInstagram: http://instagram.com/sssniperwolf\nTwitter: http://www.twitter.com/sssniperwolf\nFacebook: https://www.facebook.com/sssniperwolf\nOfficial Merch: https://ogwolfpack.com/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7ygWC8VrkTeyVmtFhH6OX7qtCD8",
+      "id": "UoMVXfxpLsg",
+      "snippet": {
+        "publishedAt": "2022-12-27T19:05:04Z",
+        "channelId": "UCo_IB5145EVNcf8hw1Kku7w",
+        "title": "Game Theory: You Are NOT The Hero Of Poppy Playtime (Project Playtime)",
+        "description": "Stay Warn This Winter With TheoryWear ►  https://theorywear.com/\n\nLoyal Theorists, there is a HERO that has been lurking around Playtime Co. for a long time. Someone whose job it is to protect, and we’ve found that person. With the release of Project Playtime, we got some new insight into the Bigger Bodies Initiative and some much-needed clarity about one of the BIGGEST mysteries of Poppy Playtime. \n\nCheck out Project Playtime On Steam ► https://store.steampowered.com/app/1961460/PROJECT_PLAYTIME/\n\nGet Your TheoryWear! ►  https://theorywear.com/\nCheck out the Reddit! ► https://www.reddit.com/r/GameTheorists/   \nSUBSCRIBE to Catch all the Theories! ► https://goo.gl/kQWHkJ    \n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet A 30 Day Free Trial! ► http://share.epidemicsound.com/MatPat\n   \nMore THEORIES: \nPoppy Playtime, Don't BREATHE ►► https://youtu.be/-m6lSZi8d9U\nFNAF, The Origins Of EVIL ►► https://youtu.be/ZfomNvIEX74\nBloody History Of Poppy Playtime ►► https://youtu.be/54KyOW0naRE\nSecret LORE Of Rainbow Friends ►► https://youtu.be/qQbvBE9i_jA\nPoppy Playtime, Monster In The Shadows ►► https://youtu.be/DduGAca6hZU\n\nJoin our other Theorist Communities! \nFilm Theory! ► http://bit.ly/1dI8VBH  \nFood Theory! ► https://bit.ly/2CdCooV\n\nCredits:\nWriters: Matthew Patrick and Tom Robinson\nEditors: Dan Cybert, Alex \"Sedge\" Sedgwick, JayskiBean, Jerika (NekoOnigiri), and Tyler Mascola \nAssistant Editor: GeekyPeanut\nSound Editor: Yosi Berman \n\n#ProjectPlaytime #PoppyPlaytime #HuggyWuggy #MommyLongLegs  #ProjectPlaytimeTheory #PoppyPlaytimeTrailer #MatPat #Theory #GameTheory",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UoMVXfxpLsg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UoMVXfxpLsg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UoMVXfxpLsg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/UoMVXfxpLsg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/UoMVXfxpLsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Game Theorists",
+        "tags": [
+          "Project playtime",
+          "poppy playtime",
+          "project playtime theory",
+          "poppy playtime 1006",
+          "poppy playtime chapter 3",
+          "poppy playtime ch 3 trailer",
+          "poppy playtime trailer",
+          "project playtime vhs",
+          "project playtime lore",
+          "huggy wuggy",
+          "kissy missy",
+          "mommy long legs",
+          "boxy boo",
+          "patient 1006",
+          "project playtime gameplay",
+          "boxy boo project playtime",
+          "patient 1006 poppy playtime",
+          "poppy playtime 1006 experiment",
+          "poppy playtime game theory",
+          "matpat poppy playtime",
+          "matpat",
+          "game theorists",
+          "game theory"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Game Theory: You Are NOT The Hero Of Poppy Playtime (Project Playtime)",
+          "description": "Stay Warn This Winter With TheoryWear ►  https://theorywear.com/\n\nLoyal Theorists, there is a HERO that has been lurking around Playtime Co. for a long time. Someone whose job it is to protect, and we’ve found that person. With the release of Project Playtime, we got some new insight into the Bigger Bodies Initiative and some much-needed clarity about one of the BIGGEST mysteries of Poppy Playtime. \n\nCheck out Project Playtime On Steam ► https://store.steampowered.com/app/1961460/PROJECT_PLAYTIME/\n\nGet Your TheoryWear! ►  https://theorywear.com/\nCheck out the Reddit! ► https://www.reddit.com/r/GameTheorists/   \nSUBSCRIBE to Catch all the Theories! ► https://goo.gl/kQWHkJ    \n\nNeed Royalty Free Music for your Content? Try Epidemic Sound.\nGet A 30 Day Free Trial! ► http://share.epidemicsound.com/MatPat\n   \nMore THEORIES: \nPoppy Playtime, Don't BREATHE ►► https://youtu.be/-m6lSZi8d9U\nFNAF, The Origins Of EVIL ►► https://youtu.be/ZfomNvIEX74\nBloody History Of Poppy Playtime ►► https://youtu.be/54KyOW0naRE\nSecret LORE Of Rainbow Friends ►► https://youtu.be/qQbvBE9i_jA\nPoppy Playtime, Monster In The Shadows ►► https://youtu.be/DduGAca6hZU\n\nJoin our other Theorist Communities! \nFilm Theory! ► http://bit.ly/1dI8VBH  \nFood Theory! ► https://bit.ly/2CdCooV\n\nCredits:\nWriters: Matthew Patrick and Tom Robinson\nEditors: Dan Cybert, Alex \"Sedge\" Sedgwick, JayskiBean, Jerika (NekoOnigiri), and Tyler Mascola \nAssistant Editor: GeekyPeanut\nSound Editor: Yosi Berman \n\n#ProjectPlaytime #PoppyPlaytime #HuggyWuggy #MommyLongLegs  #ProjectPlaytimeTheory #PoppyPlaytimeTrailer #MatPat #Theory #GameTheory"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DqhrrKSAnfCnSc4W-5_12apJa1U",
+      "id": "DUFGnydGLaI",
+      "snippet": {
+        "publishedAt": "2022-12-27T20:51:39Z",
+        "channelId": "UCqONv8hrKKTd0ELJcxOVNJQ",
+        "title": "OPENING PRESENTS ON CHRISTMAS MORNING WITH THE PRINCE FAMILY CLUBHOUSE!!",
+        "description": "OPENING PRESENTS ON CHRISTMAS MORNING WITH THE PRINCE FAMILY CLUBHOUSE!!\n\nSubscribe To Our Main Channel: https://www.youtube.com/channel/UC5LGPvoUOfwcLi4Ck8LiR4A\n\nFollow Damien:\nInstagram: https://instagram.com/DamienPrinceJr\nTwitter: https://twitter.com/DamienPrinceJr\nSnapChat: https://snapchat.com/add/DamienPrinceJr\nFacebook: https://facebook.com/DamienPrinceJr\n\nFollow Biannca: \nYouTube Channel: https://goo.gl/iCz7K8\nInstagram: https://instagram.com/x_bianncaraines\nTikTok: https://tiktok.com/@bianncarraines\nTwitter: https://twitter.com/bianncarraines\nSnapChat: https://snapchat.com/add/BianncaRaines\n\nFollow Our Little Ones On Instagram:\nAyla: https://instagram.com/aylafaithprince\nKyrie: https://instagram.com/kyriedenailprince\nNova: https://instagram.com/novagraceprince\nDJ: https://instagram.com/djandkyrieprince\n\nBUSINESS INQUIRIES: ThePrinceFamilyInquiries@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DUFGnydGLaI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DUFGnydGLaI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DUFGnydGLaI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DUFGnydGLaI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DUFGnydGLaI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Prince Family Clubhouse",
+        "tags": [
+          "the prince family clubhouse",
+          "the prince family",
+          "prince family",
+          "the prince family challenges",
+          "the prince family skits",
+          "dj",
+          "kyrie",
+          "biannca",
+          "opening presents on christmas morning",
+          "opening presents",
+          "christmas morning",
+          "christmas morning opening presents",
+          "christmas",
+          "christmas presents",
+          "opening christmas presents",
+          "opening gifts",
+          "christmas day",
+          "christmas gifts",
+          "presents",
+          "vlogmas",
+          "gifts",
+          "christmas special",
+          "unboxing presents",
+          "The Prince Family Clubhouse Christmas",
+          "the prince family christmas"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "OPENING PRESENTS ON CHRISTMAS MORNING WITH THE PRINCE FAMILY CLUBHOUSE!!",
+          "description": "OPENING PRESENTS ON CHRISTMAS MORNING WITH THE PRINCE FAMILY CLUBHOUSE!!\n\nSubscribe To Our Main Channel: https://www.youtube.com/channel/UC5LGPvoUOfwcLi4Ck8LiR4A\n\nFollow Damien:\nInstagram: https://instagram.com/DamienPrinceJr\nTwitter: https://twitter.com/DamienPrinceJr\nSnapChat: https://snapchat.com/add/DamienPrinceJr\nFacebook: https://facebook.com/DamienPrinceJr\n\nFollow Biannca: \nYouTube Channel: https://goo.gl/iCz7K8\nInstagram: https://instagram.com/x_bianncaraines\nTikTok: https://tiktok.com/@bianncarraines\nTwitter: https://twitter.com/bianncarraines\nSnapChat: https://snapchat.com/add/BianncaRaines\n\nFollow Our Little Ones On Instagram:\nAyla: https://instagram.com/aylafaithprince\nKyrie: https://instagram.com/kyriedenailprince\nNova: https://instagram.com/novagraceprince\nDJ: https://instagram.com/djandkyrieprince\n\nBUSINESS INQUIRIES: ThePrinceFamilyInquiries@gmail.com"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "vc0srv27RpafodHzlNW-9uVhckA",
+      "id": "oY3-kgBsL9w",
+      "snippet": {
+        "publishedAt": "2022-12-27T23:00:09Z",
+        "channelId": "UCw3LGiL_bYbWrgpQ7w7QZrw",
+        "title": "PGA Tour Players Surprise Trent Before Round - Breaking 90 Episode 13 presented by Chevy",
+        "description": "After two long days of training with swing coach John Tillery, Trent is ready to get back out there and give Breaking 90 another shot. However, this time his partner in crime, Frankie Borrelli had a nice surprise waiting for him before the first tee.\n\n\nCheck out our merch here: https://store.barstoolsports.com/collections/fore-play\n\nFollow Fore Play Podcast here:\nPodcast: https://itunes.apple.com/us/podcast/fore-play/id1200343264?mt=2\nTwitter: https://twitter.com/ForePlayPod\nInstagram: https://www.instagram.com/foreplaypod/\n\nCheck out Barstool Sports for more: http://www.barstoolsports.com\n\nFollow Barstool Sports here:\nFacebook: https://facebook.com/barstoolsports\nTwitter: https://twitter.com/barstoolsports\nInstagram: http://instagram.com/barstoolsports",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oY3-kgBsL9w/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oY3-kgBsL9w/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oY3-kgBsL9w/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/oY3-kgBsL9w/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/oY3-kgBsL9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fore Play Golf",
+        "tags": [
+          "Riggs",
+          "Barstool Sports",
+          "Barstool Golf",
+          "Fore Play",
+          "Fore Play Pod",
+          "Barstool Podcast",
+          "Trent",
+          "Barstool Trent",
+          "Frankie Borrelli",
+          "Alright Frankie",
+          "Funny Golf",
+          "Golf",
+          "Golf Course Review",
+          "golf",
+          "podcast",
+          "golf interview",
+          "comedy",
+          "comedy interview",
+          "comedy podcast",
+          "golf comedy",
+          "breaking 90",
+          "trent golf",
+          "trent breaking 90",
+          "john tillery",
+          "cuscowilla",
+          "golf lesson",
+          "pga tour coach",
+          "justin thomas",
+          "collin morikawa",
+          "freddy couples"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "PGA Tour Players Surprise Trent Before Round - Breaking 90 Episode 13 presented by Chevy",
+          "description": "After two long days of training with swing coach John Tillery, Trent is ready to get back out there and give Breaking 90 another shot. However, this time his partner in crime, Frankie Borrelli had a nice surprise waiting for him before the first tee.\n\n\nCheck out our merch here: https://store.barstoolsports.com/collections/fore-play\n\nFollow Fore Play Podcast here:\nPodcast: https://itunes.apple.com/us/podcast/fore-play/id1200343264?mt=2\nTwitter: https://twitter.com/ForePlayPod\nInstagram: https://www.instagram.com/foreplaypod/\n\nCheck out Barstool Sports for more: http://www.barstoolsports.com\n\nFollow Barstool Sports here:\nFacebook: https://facebook.com/barstoolsports\nTwitter: https://twitter.com/barstoolsports\nInstagram: http://instagram.com/barstoolsports"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "WEt_pphXDO2oeaAfiBH2ShPrLJ4",
+      "id": "kBTMaRUwOzg",
+      "snippet": {
+        "publishedAt": "2022-12-27T19:44:50Z",
+        "channelId": "UCHjm6wybRbldhqveS7c2WTA",
+        "title": "What Parts of New York State Look Like After Record Winter Storm | Insider News",
+        "description": "Upstate New York was hit the hardest by a winter blizzard over the holiday weekend with over 50 inches of snow.\n\nMORE INSIDER NEWS VIDEOS:\nFamilies Rescued From Rooftops As Deadly Floods Hit Brazil | Insider News\nhttps://www.youtube.com/watch?v=qbtT5UkI3fc\nWorld's Largest Cylindrical Aquarium Bursts Holding 1,500 Tropical Fish | Insider News\nhttps://www.youtube.com/watch?v=e92ycvHW0Ko\nWhy Almost 20,000 Migrants Are Waiting At US Border | Insider News\nhttps://www.youtube.com/watch?v=vDAFhJQ3ByI\n\n------------------------------------------------------\n#insidernews #winterstorm #newyork \n\nInsider's mission is to inform and inspire. \n\nVisit our homepage for the top stories of the day: https://www.insider.com/news\nInsider News on Facebook: https://www.facebook.com/InsiderNews\nInsider News on Instagram: https://www.instagram.com/insider\nInsider News on Twitter: https://twitter.com/insidernews\nInsider News on Snapchat: https://www.snapchat.com/discover/News_Insider/5185974304\nInsider News on TikTok: https://www.tiktok.com/@insidernews\n\nWhat Parts of New York State Look Like After Record Winter Storm | Insider News",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBTMaRUwOzg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBTMaRUwOzg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBTMaRUwOzg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/kBTMaRUwOzg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/kBTMaRUwOzg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Insider News",
+        "tags": [
+          "Insider",
+          "News",
+          "Elliot",
+          "snow storm",
+          "cyclone",
+          "snow",
+          "storm",
+          "weather",
+          "cold",
+          "extreme weather",
+          "florida",
+          "tennesssee"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "What Parts of New York State Look Like After Record Winter Storm | Insider News",
+          "description": "Upstate New York was hit the hardest by a winter blizzard over the holiday weekend with over 50 inches of snow.\n\nMORE INSIDER NEWS VIDEOS:\nFamilies Rescued From Rooftops As Deadly Floods Hit Brazil | Insider News\nhttps://www.youtube.com/watch?v=qbtT5UkI3fc\nWorld's Largest Cylindrical Aquarium Bursts Holding 1,500 Tropical Fish | Insider News\nhttps://www.youtube.com/watch?v=e92ycvHW0Ko\nWhy Almost 20,000 Migrants Are Waiting At US Border | Insider News\nhttps://www.youtube.com/watch?v=vDAFhJQ3ByI\n\n------------------------------------------------------\n#insidernews #winterstorm #newyork \n\nInsider's mission is to inform and inspire. \n\nVisit our homepage for the top stories of the day: https://www.insider.com/news\nInsider News on Facebook: https://www.facebook.com/InsiderNews\nInsider News on Instagram: https://www.instagram.com/insider\nInsider News on Twitter: https://twitter.com/insidernews\nInsider News on Snapchat: https://www.snapchat.com/discover/News_Insider/5185974304\nInsider News on TikTok: https://www.tiktok.com/@insidernews\n\nWhat Parts of New York State Look Like After Record Winter Storm | Insider News"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KPV0lUfXslDbEu7NrvPcmTClBHg",
+      "id": "Y5pBkYb0jSw",
+      "snippet": {
+        "publishedAt": "2022-12-26T18:55:06Z",
+        "channelId": "UC9yRXKq58_XkpeOcKjwqyjA",
+        "title": "Kim Kardashian | Angie Martinez IRL Podcast",
+        "description": "This week on Angie Martinez IRL Podcast, Angie is coming to you live from one of the most zen places on earth… Kim Kardashian’s office. Kim has a “big life” full of tons of opinions but has somehow mastered remaining calm mentally and emotionally despite it all. She admits she doesn’t look at comments, is open to self-correction, and believes in the room for redemption but reveals that the robbery in Paris is what really shifted her values in a major way. \n\nEveryone is going through something in real life, Kim Kardashian included. In this episode, Kim shares how the memories of her own father help her keep it together for her kids and continue to be what leads her in her very complex co-parenting journey.  \n\nDespite all that’s happening around her, she makes time where there is often none, is dedicated to helping others, and admits to truly feeling at peace. Kim Kardashian is free, having fun, and enjoying dating, even if it means various forms of dating in the house. \n\nThis is an episode you won’t want to miss. \n\nWebsite: https://www.angiemartinez.com \n\nInstagram: https://www.instagram.com/angiemartinez (Follow) \n\nTwitter: https://twitter.com/angiemartinez (Follow) \n\nFacebook: https://www.facebook.com/officialangiemartinez (Like)",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y5pBkYb0jSw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y5pBkYb0jSw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y5pBkYb0jSw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Y5pBkYb0jSw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Y5pBkYb0jSw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Angie Martinez",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kim Kardashian | Angie Martinez IRL Podcast",
+          "description": "This week on Angie Martinez IRL Podcast, Angie is coming to you live from one of the most zen places on earth… Kim Kardashian’s office. Kim has a “big life” full of tons of opinions but has somehow mastered remaining calm mentally and emotionally despite it all. She admits she doesn’t look at comments, is open to self-correction, and believes in the room for redemption but reveals that the robbery in Paris is what really shifted her values in a major way. \n\nEveryone is going through something in real life, Kim Kardashian included. In this episode, Kim shares how the memories of her own father help her keep it together for her kids and continue to be what leads her in her very complex co-parenting journey.  \n\nDespite all that’s happening around her, she makes time where there is often none, is dedicated to helping others, and admits to truly feeling at peace. Kim Kardashian is free, having fun, and enjoying dating, even if it means various forms of dating in the house. \n\nThis is an episode you won’t want to miss. \n\nWebsite: https://www.angiemartinez.com \n\nInstagram: https://www.instagram.com/angiemartinez (Follow) \n\nTwitter: https://twitter.com/angiemartinez (Follow) \n\nFacebook: https://www.facebook.com/officialangiemartinez (Like)"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "noQ2uVnrwqk6ZrIfcA7MI1rmYiA",
+      "id": "_ps-eYat1WI",
+      "snippet": {
+        "publishedAt": "2022-12-27T18:58:31Z",
+        "channelId": "UCSAYHSNaY5_UEol4_frPurg",
+        "title": "21 Most Annoying Pokémon to Evolve",
+        "description": "The 21 Pokemon I think are the most annoying Pokémon to evolve\n📽️Subscribe here! http://bit.ly/mandjtv_sub\n👕Merch store! https://mandjtvmerch.com/\n🎮Gameplay Channel MandJTV Plays! http://bit.ly/mandjtv_plays\n💸Support me on Patreon and get perks! http://bit.ly/mandjtv_patreon\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n🏪Amazon Storefront! http://bit.ly/mandjtv_shop\n\nI make Pokemon videos, such as Pokemon Scarlet and Violet content, Pokemon Legends Arceus content, Pokemon playthrough challenges, Top 10 or Top 5 Pokemon videos, Pokemon Talk, Pokemon Meme Review, and lots more! If you're any level of Pokemon fan, subscribe for videos you're sure to love!\n\nEdited by KeeLoker! https://twitter.com/KeeLoker\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw\n\n#Pokemon",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ps-eYat1WI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ps-eYat1WI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ps-eYat1WI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_ps-eYat1WI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_ps-eYat1WI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "MandJTV",
+        "tags": [
+          "New Pokemon games",
+          "New Pokemon",
+          "Top Pokemon",
+          "Pokemon Talk",
+          "MandJTV",
+          "MandJTV Pokevids",
+          "gaming",
+          "video games",
+          "nintendo switch",
+          "nintendo",
+          "pokemon",
+          "new games",
+          "family friendly",
+          "top 10",
+          "top 5",
+          "charizard",
+          "greninja",
+          "pikachu",
+          "best pokemon",
+          "all pokemon",
+          "original pokemon",
+          "retro games",
+          "retro pokemon games",
+          "nintendo pokemon",
+          "pokemon legends arceus",
+          "pokemon scarlet and violet",
+          "gen 9",
+          "annoying pokemon",
+          "evolve"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "21 Most Annoying Pokémon to Evolve",
+          "description": "The 21 Pokemon I think are the most annoying Pokémon to evolve\n📽️Subscribe here! http://bit.ly/mandjtv_sub\n👕Merch store! https://mandjtvmerch.com/\n🎮Gameplay Channel MandJTV Plays! http://bit.ly/mandjtv_plays\n💸Support me on Patreon and get perks! http://bit.ly/mandjtv_patreon\n📱 TikTok! http://bit.ly/mandjtv_tiktok\n📸Instagram! http://bit.ly/mandjtv_insta\n👽Reddit! http://bit.ly/mandjtv_reddit\n🏪Amazon Storefront! http://bit.ly/mandjtv_shop\n\nI make Pokemon videos, such as Pokemon Scarlet and Violet content, Pokemon Legends Arceus content, Pokemon playthrough challenges, Top 10 or Top 5 Pokemon videos, Pokemon Talk, Pokemon Meme Review, and lots more! If you're any level of Pokemon fan, subscribe for videos you're sure to love!\n\nEdited by KeeLoker! https://twitter.com/KeeLoker\nMytey subscribe animation by Spoody: https://www.youtube.com/channel/UCtT-Ff9o7Ygj0dUu8wGiXcw\n\n#Pokemon"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "cr-uo49nFhMQH1msyAhgioOC4js",
+      "id": "SKJ4JAVLMb4",
+      "snippet": {
+        "publishedAt": "2022-12-27T17:15:24Z",
+        "channelId": "UCp0rRUsMDlJ1meYAQ6_37Dw",
+        "title": "Winter Storms on The Way-Time to Stack the New Shed",
+        "description": "Winter Storms on The Way-Time to Stack the New Shed #JohnDeereShuffle\n\nFor more content check out our 2nd YouTube Channel \n @betweentherows \n\nOrder Millennial Farmer Merchandise: \n►https://www.mnmillennialfarmer.com/ \n\nOff The Husk With The Millennial Farmer Podcast Listen Here: ►https://www.mnmillennialfarmer.com/podcast \n\nFarmers Business Network FBN membership is now FREE! \nStart maximizing your farm's profit potential today. \n►https://use.fbn.com/MN-MILLENNIAL-FARMER \n\nYankum Ropes\n►https://yankum.com/?afmc=1s\nPROMO CODE MFARMER\n\nGet my Gatorz Sunglasses \n►https://www.gatorz.com/millennialfarmer\n\nDrink Northern Chill\n► www.northernchill.com \n 20% off using code MNFARMER20 \n\nMaximum Hearing Protection and Hearing Enhancement with Bluetooth Technology ►https://goaxil.com/?rfsn=6419650.f3c859 Coupon Code: FARMER1\n\nOTHER COOL STUFF like my watch here: ►https://www.amazon.com/shop/mnmillennialfarmer?listId=W464BJJLJY8I&ref=idea_share_inf \n\nBringing Magical Moments to Millennial Farmer Fans:\n►https://www.cameo.com/millennialfarmer?utm_campaign=profile_share \n\nBook The Millennial Farmer to Speak at your Next Event: \n►mnmillennialfarmer@gmail.com \n\nField Work Podcast Listen on Apple Music, Google and Spotify: ►https://www.fieldworktalk.org/ \n\nZach Johnson, the “Millennial Farmer” is a 5th-generation farmer who’s spent his life growing, working, and learning on his family’s farm. His wit and dry sense of humor appeal to children and adults alike. A product of the millennial generation, his appreciation of new technology blends with his old-fashioned work ethic, and he offers a unique ability to deliver his message in a way that resonates with lifelong farmers as well as those with no knowledge of agriculture. With growing consumer awareness about where their food comes from, Zach has identified the need for an independent voice from the front lines of agriculture. Zach actively promotes agriculture by sharing his day-to-day experiences in the agriculture world while providing farmer-to-farmer education to help facilitate a collaborative conversation between farmers and the public. \nFollow Along \n►https://www.instagram.com/mnmillennialfarmer/ ►https://www.facebook.com/MNMILLENNIALFARMER/ ►https://twitter.com/farmmillennial",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SKJ4JAVLMb4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SKJ4JAVLMb4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SKJ4JAVLMb4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SKJ4JAVLMb4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/SKJ4JAVLMb4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Millennial Farmer",
+        "categoryId": "22",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Winter Storms on The Way-Time to Stack the New Shed",
+          "description": "Winter Storms on The Way-Time to Stack the New Shed #JohnDeereShuffle\n\nFor more content check out our 2nd YouTube Channel \n @betweentherows \n\nOrder Millennial Farmer Merchandise: \n►https://www.mnmillennialfarmer.com/ \n\nOff The Husk With The Millennial Farmer Podcast Listen Here: ►https://www.mnmillennialfarmer.com/podcast \n\nFarmers Business Network FBN membership is now FREE! \nStart maximizing your farm's profit potential today. \n►https://use.fbn.com/MN-MILLENNIAL-FARMER \n\nYankum Ropes\n►https://yankum.com/?afmc=1s\nPROMO CODE MFARMER\n\nGet my Gatorz Sunglasses \n►https://www.gatorz.com/millennialfarmer\n\nDrink Northern Chill\n► www.northernchill.com \n 20% off using code MNFARMER20 \n\nMaximum Hearing Protection and Hearing Enhancement with Bluetooth Technology ►https://goaxil.com/?rfsn=6419650.f3c859 Coupon Code: FARMER1\n\nOTHER COOL STUFF like my watch here: ►https://www.amazon.com/shop/mnmillennialfarmer?listId=W464BJJLJY8I&ref=idea_share_inf \n\nBringing Magical Moments to Millennial Farmer Fans:\n►https://www.cameo.com/millennialfarmer?utm_campaign=profile_share \n\nBook The Millennial Farmer to Speak at your Next Event: \n►mnmillennialfarmer@gmail.com \n\nField Work Podcast Listen on Apple Music, Google and Spotify: ►https://www.fieldworktalk.org/ \n\nZach Johnson, the “Millennial Farmer” is a 5th-generation farmer who’s spent his life growing, working, and learning on his family’s farm. His wit and dry sense of humor appeal to children and adults alike. A product of the millennial generation, his appreciation of new technology blends with his old-fashioned work ethic, and he offers a unique ability to deliver his message in a way that resonates with lifelong farmers as well as those with no knowledge of agriculture. With growing consumer awareness about where their food comes from, Zach has identified the need for an independent voice from the front lines of agriculture. Zach actively promotes agriculture by sharing his day-to-day experiences in the agriculture world while providing farmer-to-farmer education to help facilitate a collaborative conversation between farmers and the public. \nFollow Along \n►https://www.instagram.com/mnmillennialfarmer/ ►https://www.facebook.com/MNMILLENNIALFARMER/ ►https://twitter.com/farmmillennial"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "VVIq1bO8tBVq0y5v7eKqoKaFLkQ",
+      "id": "l7eTARCQjWk",
+      "snippet": {
+        "publishedAt": "2022-12-28T01:00:22Z",
+        "channelId": "UC-g_O9HWb5B0rVDG1hLd5Hw",
+        "title": "I Cheated Using SHAPESHIFT in Minecraft Build Battle!",
+        "description": "Fooling Ethan Using Morph Mod in Minecraft Build Battle Competition Prank!  Will He ever Find Out I'm The Mobs? 😅\n\nPlay Minecraft with ME and be IN VIDEOS! 😝 Just click the 'JOIN' button here ▶\nhttps://www.youtube.com/channel/UC-g_O9HWb5B0rVDG1hLd5Hw/join\n\n❤️ Tik Tok: https://direct.me/eystreem\n📷 Instagram: https://direct.me/eystreem\n🎮 My Minecraft Server Address: play.eyserver.com\nYou can join this server on Bedrock Edition (Phones, Consoles and Tablets) and Java Edition (PC and Mac)\n\n💙 Huge thanks and credit to these awesome creators for inspiring today's video: https://docs.google.com/document/d/1_UilMRDHRNSZ3VyzxhW0fQ6_T5GfizFUlMGCI20vPGI/edit?usp=sharing\n🎵 Music from: http://share.epidemicsound.com/wn87w\n\n#Eystreem #Minecraft",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/l7eTARCQjWk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/l7eTARCQjWk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/l7eTARCQjWk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/l7eTARCQjWk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/l7eTARCQjWk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Eystreem",
+        "tags": [
+          "Eystreem",
+          "eyestream",
+          "eystream",
+          "minecraft",
+          "family friendly",
+          "roleplay",
+          "funny",
+          "troll",
+          "prank",
+          "secret",
+          "hidden",
+          "tutorial",
+          "minecraft phone",
+          "minecraft bedrock edition",
+          "i used morph mod to cheat in build battle",
+          "shapeshift minecraft",
+          "morph mod minecraft",
+          "shapeshift prank minecraft",
+          "i cheated using shapeshift in minecraft",
+          "i cheated using shapeshift in minecraft build battle",
+          "minecraft build battle competition",
+          "minecraft build battle",
+          "minecraft build battle prank",
+          "morph prank in minecraft"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Cheated Using SHAPESHIFT in Minecraft Build Battle!",
+          "description": "Fooling Ethan Using Morph Mod in Minecraft Build Battle Competition Prank!  Will He ever Find Out I'm The Mobs? 😅\n\nPlay Minecraft with ME and be IN VIDEOS! 😝 Just click the 'JOIN' button here ▶\nhttps://www.youtube.com/channel/UC-g_O9HWb5B0rVDG1hLd5Hw/join\n\n❤️ Tik Tok: https://direct.me/eystreem\n📷 Instagram: https://direct.me/eystreem\n🎮 My Minecraft Server Address: play.eyserver.com\nYou can join this server on Bedrock Edition (Phones, Consoles and Tablets) and Java Edition (PC and Mac)\n\n💙 Huge thanks and credit to these awesome creators for inspiring today's video: https://docs.google.com/document/d/1_UilMRDHRNSZ3VyzxhW0fQ6_T5GfizFUlMGCI20vPGI/edit?usp=sharing\n🎵 Music from: http://share.epidemicsound.com/wn87w\n\n#Eystreem #Minecraft"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LaafNPeB7EVvKnDY7a1H8xDXScY",
+      "id": "_1NuPFnuvEc",
+      "snippet": {
+        "publishedAt": "2022-12-28T09:00:17Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "WayV 威神V 'Phantom' MV",
+        "description": "WayV's 4th mini album \"Phantom\" is out!\nListen and download on your favorite platform: https://WayV.lnk.to/Phantom \n\n[Tracklist]\n01 Phantom\n02 Diamonds Only\n03 Good Life\n04 时间拼图 (Broken Love)\n05 Bounce Back\n06 Try My Luck\n07 这时烟火 (Back To You)\n08 Low Low\n\nWayV Official\nhttps://www.weibo.com/WeiShenV\nhttps://www.youtube.com/wayv\nhttps://www.instagram.com/wayvofficial\nhttps://www.tiktok.com/@official_wayv\nhttps://twitter.com/wayv_official\nhttps://www.facebook.com/WayV.official\n\n#WayV #Phantom #WayV_Phantom #WeiShenV #威神V \nWayV 威神V 'Phantom' MV ℗ SM Entertainment, LABEL V",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_1NuPFnuvEc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_1NuPFnuvEc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_1NuPFnuvEc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_1NuPFnuvEc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_1NuPFnuvEc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "tags": [
+          "wayv",
+          "웨이비",
+          "웨이션브이",
+          "威神V",
+          "weishenv",
+          "winwin",
+          "ten",
+          "kun",
+          "yangyang",
+          "xiaojun",
+          "hendery",
+          "윈윈",
+          "텐",
+          "쿤",
+          "양양",
+          "샤오쥔",
+          "헨드리",
+          "phantom",
+          "팬텀",
+          "MV",
+          "뮤비",
+          "뮤직비디오",
+          "MUSIC VIDEO"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "WayV 威神V 'Phantom' MV",
+          "description": "WayV's 4th mini album \"Phantom\" is out!\nListen and download on your favorite platform: https://WayV.lnk.to/Phantom \n\n[Tracklist]\n01 Phantom\n02 Diamonds Only\n03 Good Life\n04 时间拼图 (Broken Love)\n05 Bounce Back\n06 Try My Luck\n07 这时烟火 (Back To You)\n08 Low Low\n\nWayV Official\nhttps://www.weibo.com/WeiShenV\nhttps://www.youtube.com/wayv\nhttps://www.instagram.com/wayvofficial\nhttps://www.tiktok.com/@official_wayv\nhttps://twitter.com/wayv_official\nhttps://www.facebook.com/WayV.official\n\n#WayV #Phantom #WayV_Phantom #WeiShenV #威神V \nWayV 威神V 'Phantom' MV ℗ SM Entertainment, LABEL V"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "8cIc5gi0e6GPEROohgcHD1Op5BU",
+      "id": "PLDFgKzWy3o",
+      "snippet": {
+        "publishedAt": "2022-12-27T13:00:20Z",
+        "channelId": "UCLXo7UDZvByw2ixzpQCufnA",
+        "title": "2022, in 7 minutes",
+        "description": "Running up that hill with 8 billion people.\n\nSubscribe to our channel! http://goo.gl/0bsAjO\n\nIn 2022, the world population crossed 8 billion people — and we felt the scale of this monumental milestone in hundreds of ways. After over two years of lockdowns and quarantines, people eagerly restarted their lives, but there were certainly growing pains. Weddings and travel skyrocketed, but so did lost luggage and global inflation rates. Taylor Swift broke Ticketmaster. Cryptocurrency was headed toward a great year until it really, really wasn’t. 2022 tested the world population as we tested out life in a new phase of the pandemic.\n\nRussia invaded Ukraine, and aid relief flooded into the war-torn country. Refugees were welcomed into surrounding countries, and those who stayed behind inspired people around the world. Global protests cried out for justice in Iran. Football teams stood up for migrant workers and the LGBTQ+ community at the World Cup. Cuba legalized same-sex marriage. The world froze for a moment when England’s longest-reigning monarch, Queen Elizabeth II, died. And we all watched a lot of TikTok. \n\nAs we head into 2023, take a moment to look back at the events that defined this year.\n\nFor more on 2022 from Vox.com:\n\nAlissa Wilkinson’s The 25 best movies of 2022: https://www.vox.com/culture/23484805/best-movies-2022-streaming-theaters\n\nConstance Grady’s Vox’s 16 best books of 2022: https://www.vox.com/culture/23500142/best-books-2022-if-i-survive-you-vladimir-furrows-lessons-either-or-ducks-joan-is-okay-shy-hotbed\n\nMarin Cogan’s Antisemitism isn’t new. So why did 2022 feel different?:\nhttps://www.vox.com/culture/23519717/antisemitism-hatred-jews-violence\n\nMake sure you never miss behind-the-scenes content in the Vox Video newsletter, sign up here: http://vox.com/video-newsletter\n\nVox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com\n\nSupport Vox's reporting with a one-time or recurring contribution: http://vox.com/contribute-now\n\nShop the Vox merch store: http://vox.com/store\nWatch our full video catalog: http://goo.gl/IZONyE\nFollow Vox on Facebook: http://facebook.com/vox\nFollow Vox on Twitter: http://twitter.com/voxdotcom\nFollow Vox on TikTok: http://tiktok.com/@voxdotcom",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PLDFgKzWy3o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PLDFgKzWy3o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PLDFgKzWy3o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/PLDFgKzWy3o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/PLDFgKzWy3o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vox",
+        "tags": [
+          "2022",
+          "Beyonce",
+          "Covid-19",
+          "Harry Styles",
+          "Iran",
+          "Vox.com",
+          "argentina",
+          "argentina soccer",
+          "bejing olympics",
+          "china",
+          "climate change",
+          "compilation",
+          "conflict",
+          "end of year",
+          "explain",
+          "explainer",
+          "inflation",
+          "inflation reduction act",
+          "james webb",
+          "lula da silva",
+          "mahsa amini",
+          "protests",
+          "queen elizabeth II",
+          "rewind",
+          "sizzle",
+          "stranger things",
+          "taylor swift",
+          "twitter",
+          "ukraine",
+          "unity",
+          "vaccines",
+          "vox",
+          "wedding boom",
+          "world cup",
+          "world population",
+          "year in review",
+          "news",
+          "world news",
+          "global"
+        ],
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "2022, in 7 minutes",
+          "description": "Running up that hill with 8 billion people.\n\nSubscribe to our channel! http://goo.gl/0bsAjO\n\nIn 2022, the world population crossed 8 billion people — and we felt the scale of this monumental milestone in hundreds of ways. After over two years of lockdowns and quarantines, people eagerly restarted their lives, but there were certainly growing pains. Weddings and travel skyrocketed, but so did lost luggage and global inflation rates. Taylor Swift broke Ticketmaster. Cryptocurrency was headed toward a great year until it really, really wasn’t. 2022 tested the world population as we tested out life in a new phase of the pandemic.\n\nRussia invaded Ukraine, and aid relief flooded into the war-torn country. Refugees were welcomed into surrounding countries, and those who stayed behind inspired people around the world. Global protests cried out for justice in Iran. Football teams stood up for migrant workers and the LGBTQ+ community at the World Cup. Cuba legalized same-sex marriage. The world froze for a moment when England’s longest-reigning monarch, Queen Elizabeth II, died. And we all watched a lot of TikTok. \n\nAs we head into 2023, take a moment to look back at the events that defined this year.\n\nFor more on 2022 from Vox.com:\n\nAlissa Wilkinson’s The 25 best movies of 2022: https://www.vox.com/culture/23484805/best-movies-2022-streaming-theaters\n\nConstance Grady’s Vox’s 16 best books of 2022: https://www.vox.com/culture/23500142/best-books-2022-if-i-survive-you-vladimir-furrows-lessons-either-or-ducks-joan-is-okay-shy-hotbed\n\nMarin Cogan’s Antisemitism isn’t new. So why did 2022 feel different?:\nhttps://www.vox.com/culture/23519717/antisemitism-hatred-jews-violence\n\nMake sure you never miss behind-the-scenes content in the Vox Video newsletter, sign up here: http://vox.com/video-newsletter\n\nVox.com is a news website that helps you cut through the noise and understand what's really driving the events in the headlines. Check out http://www.vox.com\n\nSupport Vox's reporting with a one-time or recurring contribution: http://vox.com/contribute-now\n\nShop the Vox merch store: http://vox.com/store\nWatch our full video catalog: http://goo.gl/IZONyE\nFollow Vox on Facebook: http://facebook.com/vox\nFollow Vox on Twitter: http://twitter.com/voxdotcom\nFollow Vox on TikTok: http://tiktok.com/@voxdotcom"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "3UnnHPj9SHDvZc7DRYAYQcwXFGw",
+      "id": "nBOEwmDxjfU",
+      "snippet": {
+        "publishedAt": "2022-12-28T04:27:43Z",
+        "channelId": "UCWJ2lWNubArHWmf3FIHbfcQ",
+        "title": "KNICKS at MAVERICKS | FULL GAME HIGHLIGHTS | December 27, 2022",
+        "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.\nDownload now: https://app.link.nba.com/APP22\n\nLed by Luka Doncic's career-high 60 PTS and 21 REB, along with 10 AST, the Dallas Mavericks defeated the New York Knicks, 126-121, in overtime. Spencer Dinwiddie added 24 PTS, 6 REB and 5 AST in the victory. Quentin Grimes tallied a career-high 33 PTS, along with 6 REB and 4 AST for the Knicks in a losing effort. The Mavericks improve to 19-16 on the season, while the Knicks fall to 18-17.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nBOEwmDxjfU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nBOEwmDxjfU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nBOEwmDxjfU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nBOEwmDxjfU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nBOEwmDxjfU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBA",
+        "tags": ["Basketball", "G League", "NBA", "game-0022200512"],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "KNICKS at MAVERICKS | FULL GAME HIGHLIGHTS | December 27, 2022",
+          "description": "Never miss a moment with the latest news, trending stories and highlights to bring you closer to your favorite players and teams.\nDownload now: https://app.link.nba.com/APP22\n\nLed by Luka Doncic's career-high 60 PTS and 21 REB, along with 10 AST, the Dallas Mavericks defeated the New York Knicks, 126-121, in overtime. Spencer Dinwiddie added 24 PTS, 6 REB and 5 AST in the victory. Quentin Grimes tallied a career-high 33 PTS, along with 6 REB and 4 AST for the Knicks in a losing effort. The Mavericks improve to 19-16 on the season, while the Knicks fall to 18-17."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "BbBqw5tGlKoBxu10wLKqdrQ1pWs",
+      "id": "IDntoic3PiE",
+      "snippet": {
+        "publishedAt": "2022-12-28T05:00:04Z",
+        "channelId": "UCQdq-lqPEq_yZ_wP_kuVB9Q",
+        "title": "ATEEZ(에이티즈) - 'HALAZIA' Official MV Teaser 1",
+        "description": "[SPIN OFF : FROM THE WITNESS]\nRelease Date: 2022. 12. 30\n\n▶ ATEEZ Official Homepage:\nhttp://ateez.kqent.com\n▶ ATEEZ Official Facebook:\nhttps://facebook.com/ATEEZofficial\n▶ ATEEZ Official Twitter:\nhttps://twitter.com/ATEEZofficial\n▶ ATEEZ Official Instagram:\nhttps://instagram.com/ATEEZ_official_\n▶ ATEEZ Official Fancafe:\nhttp://cafe.daum.net/ATEEZ\n\n▶ KQ Official Homepage: \nhttp://kqent.com\n▶ KQ Official Facebook: \nhttps://facebook.com/kqent\n▶ KQ Official Twitter: \nhttps://twitter.com/kqent\n▶ KQ Official Instagram:\nhttps://instagram.com/kqent\n\n#ATEEZ #에이티즈 #FROM_THE_WITNESS",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IDntoic3PiE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IDntoic3PiE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IDntoic3PiE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/IDntoic3PiE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/IDntoic3PiE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "KQ ENTERTAINMENT",
+        "tags": [
+          "KQ",
+          "케이큐",
+          "에이티즈 세계관",
+          "에이티즈 할라티즈",
+          "ATEEZ HALATEEZ",
+          "HALAZIA",
+          "할라지아",
+          "에이티즈",
+          "ATEEZ",
+          "ATEEZ 스핀오프",
+          "HONGJOONG",
+          "SEONGHWA",
+          "YUNHO",
+          "YEOSANG",
+          "SAN",
+          "MINGI",
+          "WOOYOUNG",
+          "JONGHO",
+          "에이티즈 스핀오프",
+          "ATEEZ SPINOFF",
+          "에이티즈 할라지아 티저",
+          "에이티즈 할라지아",
+          "에이티즈 티저",
+          "에이티즈 뮤비 티저",
+          "에이티즈 스핀오프 티저"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "ATEEZ(에이티즈) - 'HALAZIA' Official MV Teaser 1",
+          "description": "[SPIN OFF : FROM THE WITNESS]\nRelease Date: 2022. 12. 30\n\n▶ ATEEZ Official Homepage:\nhttp://ateez.kqent.com\n▶ ATEEZ Official Facebook:\nhttps://facebook.com/ATEEZofficial\n▶ ATEEZ Official Twitter:\nhttps://twitter.com/ATEEZofficial\n▶ ATEEZ Official Instagram:\nhttps://instagram.com/ATEEZ_official_\n▶ ATEEZ Official Fancafe:\nhttp://cafe.daum.net/ATEEZ\n\n▶ KQ Official Homepage: \nhttp://kqent.com\n▶ KQ Official Facebook: \nhttps://facebook.com/kqent\n▶ KQ Official Twitter: \nhttps://twitter.com/kqent\n▶ KQ Official Instagram:\nhttps://instagram.com/kqent\n\n#ATEEZ #에이티즈 #FROM_THE_WITNESS"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "U3BpXYBA0xPrJ-76UYf5uEwB_7M",
+      "id": "ypH3-QbTttU",
+      "snippet": {
+        "publishedAt": "2022-12-26T21:34:38Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Aston Villa v. Liverpool | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports",
+        "description": "Both teams had their chances, but Liverpool's superior finishing made the difference in the Reds' 3-1 victory over Aston Villa. #NBCSports #PremierLeague #AstonVilla #Liverpool\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Watch Live Sports on NBCSports.com: http://www.nbcsports.com/live\n» Get more Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nWant more Premier League? Check out Peacock Premium: https://peacocktv.com/premierleague\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more.\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/\n\nhttps://www.nbcsports.com/nfl/sunday-night-football\nhttps://nbcsports.com/motors/nascar\nhttps://nbcsports.com/soccer/premier-league\n\nAston Villa v. Liverpool | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports\nhttps://www.youtube.com/nbcsports",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ypH3-QbTttU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ypH3-QbTttU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ypH3-QbTttU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ypH3-QbTttU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ypH3-QbTttU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "tags": [
+          "nbc sports",
+          "nbc",
+          "nbcsn",
+          "premier",
+          "league",
+          "premier league",
+          "premier league highlights",
+          "english premier league",
+          "epl",
+          "premier league goals",
+          "premier league soccer",
+          "premier league live",
+          "english premier league live",
+          "english premier league today",
+          "premier league 2022/23",
+          "aston villa vs liverpool 2022",
+          "aston villa vs liverpool",
+          "aston villa liverpool highlights",
+          "aston villa liverpool",
+          "aston villa highlights 2022",
+          "aston villa highlights",
+          "aston villa",
+          "liverpool highlights",
+          "liverpool"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Aston Villa v. Liverpool | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports",
+          "description": "Both teams had their chances, but Liverpool's superior finishing made the difference in the Reds' 3-1 victory over Aston Villa. #NBCSports #PremierLeague #AstonVilla #Liverpool\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Watch Live Sports on NBCSports.com: http://www.nbcsports.com/live\n» Get more Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nWant more Premier League? Check out Peacock Premium: https://peacocktv.com/premierleague\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more.\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/\n\nhttps://www.nbcsports.com/nfl/sunday-night-football\nhttps://nbcsports.com/motors/nascar\nhttps://nbcsports.com/soccer/premier-league\n\nAston Villa v. Liverpool | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports\nhttps://www.youtube.com/nbcsports"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hBVtTPr-FCn1E6rUvqag1lngZTw",
+      "id": "KivZieyf3b0",
+      "snippet": {
+        "publishedAt": "2022-12-25T20:00:10Z",
+        "channelId": "UCFAiFyGs6oDiF1Nf-rRJpZA",
+        "title": "10 million subs elbow reveal",
+        "description": "Technodad here.\n\nFor those of you who celebrate Christmas, MERRY CHRISTMAS!\nFor everyone else, Happy December 25th!\n\nI'm sorry Alex didn't get to give you an elbow reveal while he was still alive.  But his spirit lives on in you. Thanks to the strength of the fan community, I'm able to bring you this. Hopefully it will start showing up as his most recent video instead of \"so long nerds\" because frankly that thing is a downer.\n\nPlease keep spreading the love and keeping his spirit alive. Be kind to one another.\n\nI've dipped my toe into the fan community, and found the welcome to be warm. I've got some more things planned for you guys. Stay tuned.  Subscribe to Technoblade.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KivZieyf3b0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KivZieyf3b0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KivZieyf3b0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/KivZieyf3b0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/KivZieyf3b0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Technoblade",
+        "tags": [
+          "Minecraft",
+          "Technoblade",
+          "Technothepig",
+          "Hypixel",
+          "elbow",
+          "Merry Christmas"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "10 million subs elbow reveal",
+          "description": "Technodad here.\n\nFor those of you who celebrate Christmas, MERRY CHRISTMAS!\nFor everyone else, Happy December 25th!\n\nI'm sorry Alex didn't get to give you an elbow reveal while he was still alive.  But his spirit lives on in you. Thanks to the strength of the fan community, I'm able to bring you this. Hopefully it will start showing up as his most recent video instead of \"so long nerds\" because frankly that thing is a downer.\n\nPlease keep spreading the love and keeping his spirit alive. Be kind to one another.\n\nI've dipped my toe into the fan community, and found the welcome to be warm. I've got some more things planned for you guys. Stay tuned.  Subscribe to Technoblade."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "-h_36M_ZeibUqvJmgoUfHoa5gS4",
+      "id": "BzoFoAJitB0",
+      "snippet": {
+        "publishedAt": "2022-12-27T14:00:10Z",
+        "channelId": "UCqly9F4Fr_jf2Y1Cy5hacRg",
+        "title": "DRAGON BALL LEGENDS REVEALS ＆ STUFF LEGENDS FESTIVAL EDITION PART #2",
+        "description": "Reveals & Stuff Legends Festival Edition Part 2 is coming soon!\nIt's got info on Events for the second half of the Legends Festival, as well as some new characters!\n\nDon't miss it\n\nBroadcast Date & Time: From 12/27/2022 14：00 (UTC) (Sched.)\n\nPresenter\nKAI\n\n*The new character will be revealed at the beginning of the episode.\n*YouTube offers English, French, German, Spanish, Chinese, and Korean subtitles.\nーーーーーーーーーー\nVisit the homepage here: https://dble.bn-ent.net/en/\nTwitter: https://twitter.com/db_legends\nFacebook: https://www.facebook.com/DBLegends.Official/\nInstagram: https://www.instagram.com/db_legends/\n\nDownload Now: https://bnent.jp/dbl_yt_des/\nーーーーーーーーーー",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BzoFoAJitB0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BzoFoAJitB0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BzoFoAJitB0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BzoFoAJitB0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BzoFoAJitB0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bandai Namco Entertainment",
+        "tags": [
+          "バンダイナムコ",
+          "バンナム",
+          "876",
+          "876TV",
+          "BNE",
+          "バンダイナムコエンターテインメント",
+          "BANDAINAMCO",
+          "BANNAM",
+          "ばんなむ",
+          "ばんだいなむこ",
+          "ばんだいなむこえんたーていんめんと",
+          "バンナムTV",
+          "DRAGON BALL LEGENDS",
+          "DRAGON BALL",
+          "LEGENDS",
+          "Dokann",
+          "DB",
+          "DBL",
+          "Video and Stuff",
+          "Video ＆ Stuff",
+          "Video",
+          "Stuff",
+          "Reveals & Stuff",
+          "Reveals",
+          "Legends Festival"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "DRAGON BALL LEGENDS REVEALS ＆ STUFF LEGENDS FESTIVAL EDITION PART #2",
+          "description": "Reveals & Stuff Legends Festival Edition Part 2 is coming soon!\nIt's got info on Events for the second half of the Legends Festival, as well as some new characters!\n\nDon't miss it\n\nBroadcast Date & Time: From 12/27/2022 14：00 (UTC) (Sched.)\n\nPresenter\nKAI\n\n*The new character will be revealed at the beginning of the episode.\n*YouTube offers English, French, German, Spanish, Chinese, and Korean subtitles.\nーーーーーーーーーー\nVisit the homepage here: https://dble.bn-ent.net/en/\nTwitter: https://twitter.com/db_legends\nFacebook: https://www.facebook.com/DBLegends.Official/\nInstagram: https://www.instagram.com/db_legends/\n\nDownload Now: https://bnent.jp/dbl_yt_des/\nーーーーーーーーーー"
+        },
+        "defaultAudioLanguage": "ja"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZSaE988zV5MLoEKbkzrsvSFqgEo",
+      "id": "sc6vH4qDvtw",
+      "snippet": {
+        "publishedAt": "2022-12-27T20:00:23Z",
+        "channelId": "UCZGYJFUizSax-yElQaFDp5Q",
+        "title": "Star Wars: The Bad Batch Season 2 | Mission | Disney+",
+        "description": "The empire is growing stronger.” Don’t miss out on all the new missions in Season 2 of Star Wars: #TheBadBatch. Streaming January 4 only on @DisneyPlus. \n\n \n\nWhen the new season opens, months have passed since the events on Kamino, and the Bad Batch continue their journey navigating the Empire after the fall of the Republic. They will cross paths with friends and foes, both new and familiar, as they take on a variety of thrilling mercenary missions that will take them to unexpected and dangerous new places. “Star Wars: The Bad Batch” season 2 stars Emmy Award® nominee Dee Bradley Baker (“American Dad!”) as the voice of the Bad Batch and Emmy Award® nominee Michelle Ang (“Fear the Walking Dead: Flight 462”) as the voice of Omega. Emmy Award® winner Rhea Perlman (“The Mindy Project,” “Cheers”) returns to guest star as Cid, Noshir Dalal (\"It's Pony,\" \"The Owl House\") returns to guest star as Vice Admiral Rampart and Emmy Award® winner Wanda Sykes (“The Upshaws,” “Black-ish\") makes her guest starring debut in the series as as Phee Genoa. \n\n \n\n“Star Wars: The Bad Batch” is executive produced by Dave Filoni (“The Mandalorian,” “Star Wars: The Clone Wars”), Athena Portillo (“Star Wars: The Clone Wars,” “Star Wars Rebels”), Brad Rau (“Star Wars Rebels,” “Star Wars Resistance”), Jennifer Corbett (“Star Wars Resistance,” “NCIS”) and Carrie Beck (“The Mandalorian,” “Star Wars Rebels”) with Josh Rimes (“Star Wars Resistance,” \"Star Wars: Visions\") and Alex Spotswood (“Star Wars: The Clone Wars,” “Star Wars Rebels”) as producers. Rau is also serving as supervising director with Corbett as head writer and Matt Michnovetz as story editor.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sc6vH4qDvtw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sc6vH4qDvtw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sc6vH4qDvtw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sc6vH4qDvtw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sc6vH4qDvtw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Star Wars",
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Star Wars: The Bad Batch Season 2 | Mission | Disney+",
+          "description": "The empire is growing stronger.” Don’t miss out on all the new missions in Season 2 of Star Wars: #TheBadBatch. Streaming January 4 only on @DisneyPlus. \n\n \n\nWhen the new season opens, months have passed since the events on Kamino, and the Bad Batch continue their journey navigating the Empire after the fall of the Republic. They will cross paths with friends and foes, both new and familiar, as they take on a variety of thrilling mercenary missions that will take them to unexpected and dangerous new places. “Star Wars: The Bad Batch” season 2 stars Emmy Award® nominee Dee Bradley Baker (“American Dad!”) as the voice of the Bad Batch and Emmy Award® nominee Michelle Ang (“Fear the Walking Dead: Flight 462”) as the voice of Omega. Emmy Award® winner Rhea Perlman (“The Mindy Project,” “Cheers”) returns to guest star as Cid, Noshir Dalal (\"It's Pony,\" \"The Owl House\") returns to guest star as Vice Admiral Rampart and Emmy Award® winner Wanda Sykes (“The Upshaws,” “Black-ish\") makes her guest starring debut in the series as as Phee Genoa. \n\n \n\n“Star Wars: The Bad Batch” is executive produced by Dave Filoni (“The Mandalorian,” “Star Wars: The Clone Wars”), Athena Portillo (“Star Wars: The Clone Wars,” “Star Wars Rebels”), Brad Rau (“Star Wars Rebels,” “Star Wars Resistance”), Jennifer Corbett (“Star Wars Resistance,” “NCIS”) and Carrie Beck (“The Mandalorian,” “Star Wars Rebels”) with Josh Rimes (“Star Wars Resistance,” \"Star Wars: Visions\") and Alex Spotswood (“Star Wars: The Clone Wars,” “Star Wars Rebels”) as producers. Rau is also serving as supervising director with Corbett as head writer and Matt Michnovetz as story editor."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SJjrw1IUYWFYoXb_Of05fncaomM",
+      "id": "1nLHIM2IPRY",
+      "snippet": {
+        "publishedAt": "2022-12-26T23:14:29Z",
+        "channelId": "UC6107grRI4m0o2-emgoDnAA",
+        "title": "I Asked An Actual Apollo Engineer to Explain the Saturn 5 Rocket - Smarter Every Day 280",
+        "description": "Keep exploring at https://brilliant.org/smarter  Get started for free, and hurry—the first 200 people get 20% off an annual premium subscription\n\n2nd Channel Longer interview with Luke Talley: https://youtu.be/cUkbdqw9pBk\n\nLuke Talley is a Docent Emeritus at the U.S. Space and Rocket Center in Huntsville, Alabama. \nhttps://rocketcenter.com/ \n\nI like to make videos that I think are valuable. If you'd like to consider supporting on Patreon to help me continue to be values driven instead of algorithmically driven, here's that link:\nhttps://www.patreon.com/smartereveryday\n\n⇊  Click below for more links!  ⇊\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nGET SMARTER SECTION\nMany of the images in this video are taken from the \n\"Saturn V Flight manual\"\nhttps://history.nasa.gov/afj/ap12fj/pdf/a12_sa507-flightmanual.pdf\n\n\"F-1 Engine Familiarization Training Manual\"\nhttps://web.archive.org/web/20150509173846/http://agentdc.uah.edu/homepages/dcfiles/USSRC/F1EngiFamiTraiManu%20Section%201_072308152849.pdf\n\nThis Document is AMAZING:\n \"Apollo/Saturn V Space Vehicle Selected Structural Element Review Report, AS-503\"\nhttps://web.archive.org/web/20110120213410/http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19690073000_1969073000.pdf\n\nIn 2018, Marshall Space Flight Center uploaded a ton of really cool old \"Saturn V Quarterly Updates\".  Watching these videos really helped me understand the scale of the Apollo program.  What our ancestors did was absolutely amazing.  Here is one of those videos: https://www.youtube.com/watch?v=zGtU3vnNeEk\n\nGo to the MSFC YouTube channel, scroll back to 2018 and watch those Archival films.  They are amazing, even from a film production standpoint.\nhttps://www.youtube.com/@NASAMarshall\n\nThis page jumpstarted my research:\nhttp://heroicrelics.org/info/s-ic/s-ic-general.html\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nTweet Ideas to me at:\nhttp://twitter.com/smartereveryday\n\nSmarter Every Day on Facebook\nhttps://www.facebook.com/SmarterEveryDay\n\nSmarter Every Day on Patreon\nhttp://www.patreon.com/smartereveryday\n\nSmarter Every Day On Instagram\nhttp://www.instagram.com/smartereveryday\n\nSmarter Every Day SubReddit\nhttp://www.reddit.com/r/smartereveryday\n\nAmbiance, audio and musicy things by: Gordon McGladdery \nhttps://www.ashellinthepit.com/\nhttp://ashellinthepit.bandcamp.com/\n\nIf you feel like this video was worth your time and added value to your life, please SHARE THE VIDEO!\n\nIf you REALLY liked it, feel free to pitch a few dollars Smarter Every Day by becoming a Patron.\nhttp://www.patreon.com/smartereveryday\n\nWarm Regards,\n\nDestin",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1nLHIM2IPRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1nLHIM2IPRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1nLHIM2IPRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/1nLHIM2IPRY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/1nLHIM2IPRY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SmarterEveryDay",
+        "tags": [
+          "Smarter",
+          "Every",
+          "Day",
+          "Science",
+          "Physics",
+          "Destin",
+          "Sandlin",
+          "Education",
+          "Math",
+          "Smarter Every Day",
+          "experiment",
+          "nature",
+          "demonstration",
+          "education",
+          "math",
+          "science",
+          "science education",
+          "what is science",
+          "Physics of",
+          "projects",
+          "experiments",
+          "science projects",
+          "Apollo",
+          "Artemis",
+          "Luke Talley",
+          "NASA",
+          "Saturn 5",
+          "Saturn V",
+          "Apollo Space Program",
+          "Rocket Science",
+          "Rocket Engineer",
+          "How does a rocket work",
+          "How does the Saturn V Work",
+          "NASA Engineer",
+          "What is an engineer",
+          "Rocket Nozzle",
+          "F-1 Engine",
+          "J-2 Engine",
+          "Rocket Center"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "I Asked An Actual Apollo Engineer to Explain the Saturn 5 Rocket - Smarter Every Day 280",
+          "description": "Keep exploring at https://brilliant.org/smarter  Get started for free, and hurry—the first 200 people get 20% off an annual premium subscription\n\n2nd Channel Longer interview with Luke Talley: https://youtu.be/cUkbdqw9pBk\n\nLuke Talley is a Docent Emeritus at the U.S. Space and Rocket Center in Huntsville, Alabama. \nhttps://rocketcenter.com/ \n\nI like to make videos that I think are valuable. If you'd like to consider supporting on Patreon to help me continue to be values driven instead of algorithmically driven, here's that link:\nhttps://www.patreon.com/smartereveryday\n\n⇊  Click below for more links!  ⇊\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nGET SMARTER SECTION\nMany of the images in this video are taken from the \n\"Saturn V Flight manual\"\nhttps://history.nasa.gov/afj/ap12fj/pdf/a12_sa507-flightmanual.pdf\n\n\"F-1 Engine Familiarization Training Manual\"\nhttps://web.archive.org/web/20150509173846/http://agentdc.uah.edu/homepages/dcfiles/USSRC/F1EngiFamiTraiManu%20Section%201_072308152849.pdf\n\nThis Document is AMAZING:\n \"Apollo/Saturn V Space Vehicle Selected Structural Element Review Report, AS-503\"\nhttps://web.archive.org/web/20110120213410/http://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19690073000_1969073000.pdf\n\nIn 2018, Marshall Space Flight Center uploaded a ton of really cool old \"Saturn V Quarterly Updates\".  Watching these videos really helped me understand the scale of the Apollo program.  What our ancestors did was absolutely amazing.  Here is one of those videos: https://www.youtube.com/watch?v=zGtU3vnNeEk\n\nGo to the MSFC YouTube channel, scroll back to 2018 and watch those Archival films.  They are amazing, even from a film production standpoint.\nhttps://www.youtube.com/@NASAMarshall\n\nThis page jumpstarted my research:\nhttp://heroicrelics.org/info/s-ic/s-ic-general.html\n~~~~~~~~~~~~~~~~~~~~~~~~~~~~\nTweet Ideas to me at:\nhttp://twitter.com/smartereveryday\n\nSmarter Every Day on Facebook\nhttps://www.facebook.com/SmarterEveryDay\n\nSmarter Every Day on Patreon\nhttp://www.patreon.com/smartereveryday\n\nSmarter Every Day On Instagram\nhttp://www.instagram.com/smartereveryday\n\nSmarter Every Day SubReddit\nhttp://www.reddit.com/r/smartereveryday\n\nAmbiance, audio and musicy things by: Gordon McGladdery \nhttps://www.ashellinthepit.com/\nhttp://ashellinthepit.bandcamp.com/\n\nIf you feel like this video was worth your time and added value to your life, please SHARE THE VIDEO!\n\nIf you REALLY liked it, feel free to pitch a few dollars Smarter Every Day by becoming a Patron.\nhttp://www.patreon.com/smartereveryday\n\nWarm Regards,\n\nDestin"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "N_cJnc0dubcdLOK6qIQykv5oMms",
+      "id": "_uQT86rvTsM",
+      "snippet": {
+        "publishedAt": "2022-12-27T00:42:06Z",
+        "channelId": "UCqZQlzSHbVJrwrn5XvzrzcA",
+        "title": "Arsenal v. West Ham United | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports",
+        "description": "Arsenal made another statement in the title race, fighting back after Said Benrahma's opening goal to claim a 3-1 win against West Ham. #NBCSports #PremierLeague #Arsenal #WestHam\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Watch Live Sports on NBCSports.com: http://www.nbcsports.com/live\n» Get more Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nWant more Premier League? Check out Peacock Premium: https://peacocktv.com/premierleague\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more.\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/\n\nhttps://www.nbcsports.com/nfl/sunday-night-football\nhttps://nbcsports.com/motors/nascar\nhttps://nbcsports.com/soccer/premier-league\n\nArsenal v. West Ham United | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports\nhttps://www.youtube.com/nbcsports",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_uQT86rvTsM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_uQT86rvTsM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_uQT86rvTsM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/_uQT86rvTsM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/_uQT86rvTsM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NBC Sports",
+        "tags": [
+          "premier",
+          "league",
+          "premier league",
+          "premier league highlights",
+          "english premier league",
+          "epl",
+          "premier league goals",
+          "premier league soccer",
+          "premier league live",
+          "english premier league live",
+          "english premier league today",
+          "premier league 2022/23",
+          "arsenal football club",
+          "arsenal fc",
+          "arsenal news today",
+          "west ham",
+          "arsenal vs west ham",
+          "arsenal reaction",
+          "arsenal highlights",
+          "premier league highlights today",
+          "arsenal vs west ham highlights",
+          "arsenal highlights today",
+          "west ham vs arsenal"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Arsenal v. West Ham United | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports",
+          "description": "Arsenal made another statement in the title race, fighting back after Said Benrahma's opening goal to claim a 3-1 win against West Ham. #NBCSports #PremierLeague #Arsenal #WestHam\n» Subscribe to NBC Sports: https://www.youtube.com/nbcsports?sub_confirmation=1\n» Watch Live Sports on NBCSports.com: http://www.nbcsports.com/live\n» Get more Premier League news on NBC Sports: https://nbcsports.com/soccer/premier-league\n\nWant more Premier League? Check out Peacock Premium: https://peacocktv.com/premierleague\n\nNBC Sports Group serves sports fans 24/7 with premier live events, insightful studio shows, and compelling original programming. NBC Sports is an established leader in the sports media landscape with an unparalleled collection of sports properties that include the Olympics, NFL, Premier League, NASCAR, PGA TOUR, the Kentucky Derby, Tour de France, French Open, IndyCar and many more.\n\nSubscribe to our channel for the latest sporting news and highlights!\n\nThe Premier League across NBC Sports Group launched in 2013 with their biggest and broadest programming commitment to-date in the United States. With live multi-platform coverage of all 380 games, analysis from best-in-class talent and extensive surrounding coverage all week long, NBC Sports Group has become the ultimate destination for new and existing Premier League fans.\n\nThe Premier League maintains strong and consistent reach across NBC, USA Network, CNBC, and NBC Sports Group’s live streaming products, led by the biggest stars and most prestigious teams in the world.\n\nVisit NBC Sports: https://www.nbcsports.com\nFind NBC Sports on Facebook: https://www.facebook.com/NBCSports\nFollow NBC Sports on Twitter: https://twitter.com/nbcsports\nFollow NBC Sports on Instagram: https://www.instagram.com/nbcsports/\n\nhttps://www.nbcsports.com/nfl/sunday-night-football\nhttps://nbcsports.com/motors/nascar\nhttps://nbcsports.com/soccer/premier-league\n\nArsenal v. West Ham United | PREMIER LEAGUE HIGHLIGHTS | 12/26/2022 | NBC Sports\nhttps://www.youtube.com/nbcsports"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "ZQD2wwR8cV74viXzC9fYVHcPwAI",
+      "id": "BtxbRc3TL6s",
+      "snippet": {
+        "publishedAt": "2022-12-27T17:00:06Z",
+        "channelId": "UCk2uxbWi5py_iJXaEsh2YRA",
+        "title": "Surviving a YEAR in the Zombie Apocalypse...",
+        "description": "My friend sent me a mod that adds the APOCALYPSE to Minecraft... but can I survive a year without dying?\n\nMORE STREAMS: https://www.twitch.tv/spokeishere\n\nspoke being silly: https://twitter.com/spokeishere\nspoke talking: https://discord.gg/rvkqzncuGJ\n\n**THIS IS A REDUX OF AN OLDER VIDEO, I JUST REALLY LIKED IT AND WANTED TO DO IT AGAIN**\n\nmusic: \nDM DOKURO\nChris Christodoulou\nC418\nLaura Shigihara\nPeter McConnell\n\nA Minecraft video made by Spoke or SpokeIsHere on other platforms! Enjoy!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/BtxbRc3TL6s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/BtxbRc3TL6s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/BtxbRc3TL6s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/BtxbRc3TL6s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/BtxbRc3TL6s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Spoke",
+        "tags": ["spoke", "spokeishere", "lifesteal", "minecraft", "survival"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Surviving a YEAR in the Zombie Apocalypse...",
+          "description": "My friend sent me a mod that adds the APOCALYPSE to Minecraft... but can I survive a year without dying?\n\nMORE STREAMS: https://www.twitch.tv/spokeishere\n\nspoke being silly: https://twitter.com/spokeishere\nspoke talking: https://discord.gg/rvkqzncuGJ\n\n**THIS IS A REDUX OF AN OLDER VIDEO, I JUST REALLY LIKED IT AND WANTED TO DO IT AGAIN**\n\nmusic: \nDM DOKURO\nChris Christodoulou\nC418\nLaura Shigihara\nPeter McConnell\n\nA Minecraft video made by Spoke or SpokeIsHere on other platforms! Enjoy!"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1GyGA9e3pDEzQ_ST4pOpqViRY0Y",
+      "id": "2qFaA9xAeqA",
+      "snippet": {
+        "publishedAt": "2022-12-26T22:48:40Z",
+        "channelId": "UC6xSN0oY2I9U_9xTo2RjE7g",
+        "title": "100 GIFTS IN 24 HOURS!!",
+        "description": "Opening 100 gifts in 24 hours challenge..\nThis was the craziest day of my life\nNEW VIDEOS EVERY WEEK!\n\nCheck out my friends :)\nLexi Rivera @Alexa Rivera\nBrent Rivera @Brent Rivera\nStokes Twins @Stokes Twins\nBen Azelart @Ben Azelart\nPierson Wodzynski @pierson\nLexi Hensler @Lexi Hensler\nKatie Sigmond @Katie Sigmond\nAndrew Davila @Andrew Davila\nMason Fulp @Mason Fulp\nDom Brack  @Dominic Brack\nSofie Dossi @Sofie Dossi\n\nFollow my ig: jeremyhutchins",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2qFaA9xAeqA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2qFaA9xAeqA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2qFaA9xAeqA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/2qFaA9xAeqA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/2qFaA9xAeqA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jeremy Hutchins",
+        "tags": [
+          "Jeremy Hutchins",
+          "Ben Azelart",
+          "Lexi Rivera",
+          "Brent Rivera",
+          "Mason Fulp",
+          "Stokes Twins",
+          "Andrew Davila",
+          "Dom Brack",
+          "Amp World",
+          "Pierson Wodzynski",
+          "Logan Wodzynski",
+          "David Dobrik",
+          "MyLifeAsEva",
+          "MrBeast",
+          "Lexi Hensler",
+          "Faze Rug",
+          "Kat Hixson",
+          "24 hour challenge",
+          "Pierson",
+          "Extreme hide and seek",
+          "Win $10000",
+          "Airrack",
+          "Ryan Trahan",
+          "Last to leave",
+          "Last to stop",
+          "24 hours",
+          "TikTok Compilations",
+          "Preston",
+          "Matthew Beem",
+          "100 Gifts",
+          "Celebrating 24 holidays",
+          "Rebecca Zamelo",
+          "Suprising Bestfriend with"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "100 GIFTS IN 24 HOURS!!",
+          "description": "Opening 100 gifts in 24 hours challenge..\nThis was the craziest day of my life\nNEW VIDEOS EVERY WEEK!\n\nCheck out my friends :)\nLexi Rivera @Alexa Rivera\nBrent Rivera @Brent Rivera\nStokes Twins @Stokes Twins\nBen Azelart @Ben Azelart\nPierson Wodzynski @pierson\nLexi Hensler @Lexi Hensler\nKatie Sigmond @Katie Sigmond\nAndrew Davila @Andrew Davila\nMason Fulp @Mason Fulp\nDom Brack  @Dominic Brack\nSofie Dossi @Sofie Dossi\n\nFollow my ig: jeremyhutchins"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dFkkTw35HYr6bU4QgimUnZsErp0",
+      "id": "T9kMP5Eqqbk",
+      "snippet": {
+        "publishedAt": "2022-12-26T16:31:58Z",
+        "channelId": "UC5Qbo0AR3CwpmEq751BIy0g",
+        "title": "10 Things You Should ALWAYS Buy RIGHT AFTER Christmas in 2022!",
+        "description": "It may seem strange to want to buy anything AFTER Christmas but there are some SECRET insider items that you should be buying now that will save you up to 90%!!\n\nI've been researching these 10 things you should always buy after christmas for the last decade. This after christmas sale and christmas sales after christmas are some fantastic deals on items that aren't just related to boxing day 2022 and boxing day sales.\n\nHere are the links to all the HUGE sales: 👇🏼\n🚨 Walmart Toy Sale: https://bit.ly/3VEPi1X\n🚨 Target Toy Sale: https://bit.ly/3WqOPS6\n🚨 Bed Bath and Beyond Bedding Sale: https://bit.ly/3C3nyNo\n🚨 HomeGoods Online Sale: https://bit.ly/3hLkK0A (Better deals in store)\n🚨 Massive Kohls Sale: https://bit.ly/3FMGe52\n🚨 Dicks Sporting Goods Sale: https://bit.ly/3vi4abF\n🚨 American Eagle Sale: https://bit.ly/3PSyV0a\n🚨 HUGE Gap Sale: https://bit.ly/3FWg9Aq\n🚨 Old Navy Sale: https://bit.ly/3HY9JDH\n🚨 Bath and Body Works Sale: https://bit.ly/3hn9XFc\n🚨 Lowes Sale: https://bit.ly/3WKFnsw\n🚨 Macy's Luggage Sale: https://bit.ly/3IbA2WS\n🚨 Cruise Sale: https://bit.ly/3WKJ1CM\n🚨 Best Buy Open Box Sale: https://bit.ly/3FSgeVX\n🚨 Best Buy Fitness Sale: https://bit.ly/3I2FPxX\n🚨 Amazon Open Box Apple Sale: https://bit.ly/3HYbkcF\n🚨 Huge Ulta Sale: https://bit.ly/3I3tVUH\n🚨 Nordstrom Ugg Sale: https://bit.ly/3WrFZTW\n🚨 Home Depot Tree Sale: https://bit.ly/3FWijA2\n\n**These are affiliate links. If you buy something through these link I may get a small share of the sale. \n\nIn this video The Deal Guy is showing you things you should buy after christmas on items you like like perfume, groceries and more. If you've wondered about after christmas clearance sale and christmas sales after christmas sale 2022.\n\nNot many know the day after christmas have amazing sales that aren't just boxing day deals but after christmas sales 2022 that are on actual items you want to buy. I hope you enjoy this after christmas haul and after christmas sale walmart video!\n\nLet me know what you think in comments on the clearance sales!\n\n#AfterChristmas #AfterChristmasSales #BoxingDay #TheDealGuy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/T9kMP5Eqqbk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/T9kMP5Eqqbk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/T9kMP5Eqqbk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/T9kMP5Eqqbk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/T9kMP5Eqqbk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Deal Guy",
+        "tags": [
+          "the deal guy",
+          "things you should always buy",
+          "always buy",
+          "10 things you should always buy",
+          "after christmas",
+          "after christmas sale",
+          "after christmas haul",
+          "after christmas shopping",
+          "after christmas sale 2022",
+          "after christmas sales 2022",
+          "boxing day",
+          "boxing day sales",
+          "boxing day deals",
+          "boxing day 2022",
+          "things you should buy after christmas",
+          "buy after christmas",
+          "christmas sales after christmas",
+          "after christmas clearance",
+          "after christmas sale walmart",
+          "clearance sale",
+          "clearance sales"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "10 Things You Should ALWAYS Buy RIGHT AFTER Christmas in 2022!",
+          "description": "It may seem strange to want to buy anything AFTER Christmas but there are some SECRET insider items that you should be buying now that will save you up to 90%!!\n\nI've been researching these 10 things you should always buy after christmas for the last decade. This after christmas sale and christmas sales after christmas are some fantastic deals on items that aren't just related to boxing day 2022 and boxing day sales.\n\nHere are the links to all the HUGE sales: 👇🏼\n🚨 Walmart Toy Sale: https://bit.ly/3VEPi1X\n🚨 Target Toy Sale: https://bit.ly/3WqOPS6\n🚨 Bed Bath and Beyond Bedding Sale: https://bit.ly/3C3nyNo\n🚨 HomeGoods Online Sale: https://bit.ly/3hLkK0A (Better deals in store)\n🚨 Massive Kohls Sale: https://bit.ly/3FMGe52\n🚨 Dicks Sporting Goods Sale: https://bit.ly/3vi4abF\n🚨 American Eagle Sale: https://bit.ly/3PSyV0a\n🚨 HUGE Gap Sale: https://bit.ly/3FWg9Aq\n🚨 Old Navy Sale: https://bit.ly/3HY9JDH\n🚨 Bath and Body Works Sale: https://bit.ly/3hn9XFc\n🚨 Lowes Sale: https://bit.ly/3WKFnsw\n🚨 Macy's Luggage Sale: https://bit.ly/3IbA2WS\n🚨 Cruise Sale: https://bit.ly/3WKJ1CM\n🚨 Best Buy Open Box Sale: https://bit.ly/3FSgeVX\n🚨 Best Buy Fitness Sale: https://bit.ly/3I2FPxX\n🚨 Amazon Open Box Apple Sale: https://bit.ly/3HYbkcF\n🚨 Huge Ulta Sale: https://bit.ly/3I3tVUH\n🚨 Nordstrom Ugg Sale: https://bit.ly/3WrFZTW\n🚨 Home Depot Tree Sale: https://bit.ly/3FWijA2\n\n**These are affiliate links. If you buy something through these link I may get a small share of the sale. \n\nIn this video The Deal Guy is showing you things you should buy after christmas on items you like like perfume, groceries and more. If you've wondered about after christmas clearance sale and christmas sales after christmas sale 2022.\n\nNot many know the day after christmas have amazing sales that aren't just boxing day deals but after christmas sales 2022 that are on actual items you want to buy. I hope you enjoy this after christmas haul and after christmas sale walmart video!\n\nLet me know what you think in comments on the clearance sales!\n\n#AfterChristmas #AfterChristmasSales #BoxingDay #TheDealGuy"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "kq3iAD1Nf_xM5R5grD9grIIHXbo",
+      "id": "FatkHct9mIw",
+      "snippet": {
+        "publishedAt": "2022-12-27T14:00:06Z",
+        "channelId": "UC7v3-2K1N84V67IF-WTRG-Q",
+        "title": "Top 10 BEST Movies 2022",
+        "description": "The end of 2022 draws near, and so it is that the tradition of listing my favorite movies of the year remains. Here are my Top 10 FAVORITE Movies of 2022!",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FatkHct9mIw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FatkHct9mIw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FatkHct9mIw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/FatkHct9mIw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/FatkHct9mIw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jeremy Jahns",
+        "tags": ["top 10", "best", "favorite", "list", "2022"],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Top 10 BEST Movies 2022",
+          "description": "The end of 2022 draws near, and so it is that the tradition of listing my favorite movies of the year remains. Here are my Top 10 FAVORITE Movies of 2022!"
+        }
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
