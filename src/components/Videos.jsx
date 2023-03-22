@@ -1,12 +1,18 @@
 import React from "react";
 import VideoCard from "./VideoCard";
+import ChannelCard from "./ChannelCard";
 
 export default function Videos({ videos }) {
   return (
-    <ul>
+    <div>
       {videos.map((video, idx) => (
-        <li key={idx}>{video.id.videoId && <VideoCard video={video} />}</li>
+        <div>
+          {video.id.videoId && <VideoCard video={video} />}
+          {/* {video.snippet.channelId && (
+            <ChannelCard channelId={video.snippet.channelId} />
+          )} */}
+        </div>
       ))}
-    </ul>
+    </div>
   );
 }

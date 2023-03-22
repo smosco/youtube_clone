@@ -6,6 +6,7 @@ import Sidebar from "../components/Sidebar";
 
 export default function Feed() {
   const [videos, setVideos] = useState([]);
+  const [selected, setSelected] = useState("Trending");
   console.log(videos);
 
   useEffect(() => {
@@ -16,7 +17,7 @@ export default function Feed() {
   }, []);
   return (
     <div className="flex">
-      <Sidebar />
+      <Sidebar selected={selected} setSelected={setSelected} />
       <Videos videos={videos} />
     </div>
   );

@@ -8,12 +8,15 @@ export default function VideoCard({ video }) {
         <div className="cardMedia">
           <img src={snippet?.thumbnails?.high?.url} alt={id.videoId} />
         </div>
-        <div className="cardContent">{snippet?.title.slice(0, 60)}</div>
       </Link>
-
-      <Link to={snippet.channelId && `/channel/${snippet?.channelId}`}>
-        <div>{snippet && snippet.channelTitle}</div>
-      </Link>
+      <div className="cardContent">
+        <Link to={id.videoId && `/watch/${id.videoId}`}>
+          {snippet.title.slice(0, 60)}
+        </Link>
+        <Link to={snippet.channelId && `/channel/${snippet?.channelId}`}>
+          <div>{snippet && snippet.channelTitle}</div>
+        </Link>
+      </div>
     </div>
   );
 }
