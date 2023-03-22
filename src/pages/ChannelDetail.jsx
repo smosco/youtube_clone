@@ -3,23 +3,25 @@ import { useParams, useLocation } from "react-router-dom";
 import { fakeFetch, fetchFromAPI } from "../utils/fetchFromAPI";
 import Videos from "../components/Videos";
 import { numFormat } from "../utils/count";
+import Loader from "../components/Loader";
 
 export default function ChannelDetail() {
-  const {
-    state: {
-      channelDetail: {
-        snippet: {
-          title,
-          thumbnails: {
-            high: { url },
-          },
-        },
-        statistics: { subscriberCount },
-      },
-    },
-  } = useLocation();
+  // const {
+  //   state: {
+  //     channelDetail: {
+  //       snippet: {
+  //         title,
+  //         thumbnails: {
+  //           high: { url },
+  //         },
+  //       },
+  //       statistics: { subscriberCount },
+  //     },
+  //   },
+  // } = useLocation();
   const { channelId } = useParams();
   const [channelVideos, setChannelVideos] = useState([]);
+  const [channelDetail, setChannelDetail] = useState([]);
 
   useEffect(() => {
     //   fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${channelId}`).then(
@@ -41,9 +43,9 @@ export default function ChannelDetail() {
 
     const fetchResults = async () => {
       // const data = await fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${channelId}`);
-      // const data = await fakeFetch("/data/channelDetail.json");
+      const data = await fakeFetch("/data/channelDetail.json");
 
-      // setChannelDetail(data[0]);
+      setChannelDetail(data[0]);
 
       // const videosData = await fetchFromAPI(`search?channelId=${id}&part=snippet%2Cid&order=date`);
       const videosData = await fakeFetch("/data/channelVideo.json");
@@ -53,6 +55,20 @@ export default function ChannelDetail() {
 
     fetchResults();
   }, [channelId]);
+
+  if (!channelDetail?.snippet) {
+    return <Loader />;
+  }
+
+  const {
+    snippet: {
+      title,
+      thumbnails: {
+        high: { url },
+      },
+    },
+    statistics: { subscriberCount },
+  } = channelDetail;
 
   // console.log(channelDetail, channelVideos);
   return (

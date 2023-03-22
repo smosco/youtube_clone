@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { useNavigate } from "react-router-dom";
+import { useNavigate, Link } from "react-router-dom";
 import { fakeFetch, fetchFromAPI } from "../utils/fetchFromAPI";
 import { numFormat } from "../utils/count";
 import Loader from "./Loader";
@@ -28,9 +28,10 @@ export default function ChannelInfo({ id, title, display }) {
   } = channelDetail;
 
   return (
-    <div
+    <Link
+      to={`/channel/${id}`}
       className="flex my-2 items-center cursor-pointer"
-      onClick={() => navigate(`/channel/${id}`, { state: { channelDetail } })}
+      // onClick={() => navigate(`/channel/${id}`, { state: { channelDetail } })}
     >
       <img className="rounded-full w-10 h-10" src={url} alt={title} />
       <div className={`ml-2 ${display === "none" && "hidden"}`}>
@@ -39,6 +40,6 @@ export default function ChannelInfo({ id, title, display }) {
           {numFormat(parseInt(subscriberCount))}&nbsp;subscribers
         </p>
       </div>
-    </div>
+    </Link>
   );
 }
