@@ -13,7 +13,7 @@ export default function Navbar() {
   }, [searchTerm]);
 
   return (
-    <header className="w-full flex p-4 text-2xl border-b border-zinc-600 mb-4">
+    <header className="w-full flex p-4 text-2xl border-b border-gray-300 mb-4">
       <Link to="/" className="flex items-center">
         <AiFillYoutube className="text-4xl text-brand" />
         <h1 className="font-semibold ml-2 text-3xl">Youtube</h1>

@@ -42,12 +42,16 @@ export default function ChannelDetail() {
     //2개를 한번에 하는 함수가 필요했다.? 확실한가?
 
     const fetchResults = async () => {
-      // const data = await fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${channelId}`);
+      // const data = await fetchFromAPI(
+      //   `channels?part=snippet%2Cstatistics&id=${channelId}`
+      // );
       const data = await fakeFetch("/data/channelDetail.json");
 
       setChannelDetail(data[0]);
 
-      // const videosData = await fetchFromAPI(`search?channelId=${id}&part=snippet%2Cid&order=date`);
+      // const videosData = await fetchFromAPI(
+      //   `search?channelId=${channelId}&part=snippet%2Cid&order=date`
+      // );
       const videosData = await fakeFetch("/data/channelVideo.json");
 
       setChannelVideos(videosData);

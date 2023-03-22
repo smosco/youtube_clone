@@ -8,7 +8,8 @@ export default function ChannelInfo({ id, title, display }) {
   const [channelDetail, setChannelDetail] = useState([]);
   const navigate = useNavigate();
   useEffect(() => {
-    // fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${channelId}`)
+    // fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${id}`).then(
+    //   (data) => setChannelDetail(data[0])
     fakeFetch("/data/channelDetail.json").then((data) =>
       setChannelDetail(data[0])
     );
