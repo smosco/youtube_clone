@@ -1,12 +1,24 @@
 import React, { useState, useEffect } from "react";
-import { useParams } from "react-router-dom";
+import { useParams, useLocation } from "react-router-dom";
 import { fakeFetch, fetchFromAPI } from "../utils/fetchFromAPI";
 import Videos from "../components/Videos";
-import ChannelCard from "../components/ChannelCard";
+import { numFormat } from "../utils/count";
 
 export default function ChannelDetail() {
+  const {
+    state: {
+      channelDetail: {
+        snippet: {
+          title,
+          thumbnails: {
+            high: { url },
+          },
+        },
+        statistics: { subscriberCount },
+      },
+    },
+  } = useLocation();
   const { channelId } = useParams();
-  const [channelDetail, setChannelDetail] = useState([]);
   const [channelVideos, setChannelVideos] = useState([]);
 
   useEffect(() => {
@@ -29,9 +41,9 @@ export default function ChannelDetail() {
 
     const fetchResults = async () => {
       // const data = await fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${channelId}`);
-      const data = await fakeFetch("/data/channelDetail.json");
+      // const data = await fakeFetch("/data/channelDetail.json");
 
-      setChannelDetail(data[0]);
+      // setChannelDetail(data[0]);
 
       // const videosData = await fetchFromAPI(`search?channelId=${id}&part=snippet%2Cid&order=date`);
       const videosData = await fakeFetch("/data/channelVideo.json");
@@ -44,8 +56,19 @@ export default function ChannelDetail() {
 
   // console.log(channelDetail, channelVideos);
   return (
-    <div>
-      <ChannelCard channelDetail={channelDetail} />
+    <div className="flex flex-col gap-6 px-12">
+      <div className="flex items-center gap-4 border-b-[1px] pb-6">
+        <img className="w-24 h-24 rounded-full" src={url} alt={title} />
+        <div>
+          <p className="text-3xl">{title}</p>
+          {subscriberCount && (
+            <p className="text-md text-gray-500">
+              {numFormat(parseInt(subscriberCount))}
+              &nbsp;subscribers
+            </p>
+          )}
+        </div>
+      </div>
       <Videos videos={channelVideos} />
     </div>
   );

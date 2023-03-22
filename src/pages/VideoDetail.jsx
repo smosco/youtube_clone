@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { fakeFetch, fetchFromAPI } from "../utils/fetchFromAPI";
-import { Link } from "react-router-dom";
+import { numFormat } from "../utils/count";
 import Loader from "../components/Loader";
 import Comments from "../components/Comments";
 import RelatedVideos from "../components/RelatedVideos";
@@ -35,10 +35,10 @@ export default function VideoDetail() {
 
   if (!videoDetail?.snippet) return <Loader />;
 
-  // const {
-  //   snippet: { title, channelId, channelTitle },
-  //   statistics: { viewCount, likeCount },
-  // } = videoDetail;
+  const {
+    snippet: { title, channelId, channelTitle, description, publishedAt },
+    statistics: { viewCount, likeCount },
+  } = videoDetail;
 
   //이상하게 ?를 붙이면 잘 되고 안 붙이면 not found가 뜬다.
   return (
@@ -51,21 +51,15 @@ export default function VideoDetail() {
           height="640"
           type="text/html"
           src={`http://www.youtube.com/embed/${videoId}`}
-          frameBorder="0"
         ></iframe>
-        <div className="text-xl font-bold">{videoDetail?.snippet?.title}</div>
-        <ChannelInfo
-          channelId={videoDetail.snippet.channelId}
-          channelTitle={videoDetail.snippet.channelTitle}
-        />
+        <div className="text-xl font-semibold mt-2">{title}</div>
+        <ChannelInfo id={channelId} title={channelTitle} />
         <div className="bg-gray-200 p-4 rounded-xl">
-          <p className="whitespace-pre-wrap">
-            {videoDetail?.snippet?.description}
-          </p>
-          <Link to={`/channel/${videoDetail?.snippet?.channelId}`}>
-            {videoDetail?.snippet?.channelTitle}
-          </Link>
-          <div>{videoDetail?.statistics?.viewCount}</div>
+          <div className="font-semibold">
+            {viewCount}&nbsp;views&nbsp;
+            {publishedAt.slice(0, 10)}
+          </div>
+          <p className="whitespace-pre-wrap">{description}</p>
         </div>
         <Comments comments={comments} />
       </div>

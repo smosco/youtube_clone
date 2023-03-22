@@ -1,22 +1,44 @@
 import React, { useState, useEffect } from "react";
-import { fakeFetch } from "../utils/fetchFromAPI";
+import { useNavigate } from "react-router-dom";
+import { fakeFetch, fetchFromAPI } from "../utils/fetchFromAPI";
+import { numFormat } from "../utils/count";
+import Loader from "./Loader";
 
-export default function ChannelInfo({ channelId, channelTitle }) {
-  const [channelImg, setChannelImg] = useState([]);
+export default function ChannelInfo({ id, title }) {
+  const [channelDetail, setChannelDetail] = useState([]);
+  const navigate = useNavigate();
   useEffect(() => {
+    // fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${channelId}`)
     fakeFetch("/data/channelDetail.json").then((data) =>
-      setChannelImg(data[0].snippet.thumbnails.default.url)
+      setChannelDetail(data[0])
     );
-  }, [channelId]);
+  }, [id]);
+
+  // channelDetail은 []로 초기값이 있으니 받아와야 있을수있는 snippet이 있는지 확인하고 없으면 로더를 보여준다.
+  // 있으면 const 만들고 넘어간다.
+  if (!channelDetail?.snippet) return <Loader />;
+
+  const {
+    snippet: {
+      thumbnails: {
+        default: { url },
+      },
+    },
+    statistics: { subscriberCount },
+  } = channelDetail;
 
   return (
-    <div className="flex my-4 mb-8 items-center">
-      <img
-        className="rounded-full w-10 h-10 shrink-0"
-        src={channelImg}
-        alt={channelTitle}
-      />
-      {/* <p className="text-lg font-medium ml-2">{channelTitle}</p> */}
+    <div
+      className="flex my-2 items-center"
+      onClick={() => navigate(`/channel/${id}`, { state: { channelDetail } })}
+    >
+      <img className="rounded-full w-11 h-11 shrink-0" src={url} alt={title} />
+      <div className="ml-2">
+        <p className="text-lg font-semibold">{title}</p>
+        <p className="text-sm text-gray-500">
+          {numFormat(parseInt(subscriberCount))}&nbsp;subscribers
+        </p>
+      </div>
     </div>
   );
 }

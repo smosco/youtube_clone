@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import ChannelDetail from "../pages/ChannelDetail";
 import { formatAgo } from "../utils/date";
 import ChannelInfo from "./ChannelInfo";
 
