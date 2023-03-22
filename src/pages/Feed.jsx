@@ -10,15 +10,22 @@ export default function Feed() {
   console.log(videos);
 
   useEffect(() => {
-    // fetchFromAPI("search?part=snippet&q=bts&maxResults=50").then((data) =>
-    //   setVideos(data)
+    // fetchFromAPI(`search?part=snippet&q=${selected}&maxResults=50`).then(
+    //   (data) => setVideos(data)
     // );
     fakeFetch("data/search.json").then((data) => setVideos(data));
-  }, []);
+  }, [selected]);
   return (
-    <div className="flex">
-      {/* <Sidebar selected={selected} setSelected={setSelected} /> */}
-      <Videos videos={videos} />
+    <div className="flex flex-col md:flex-row">
+      <div className="h-auto md:h-[92vh]">
+        <Sidebar selected={selected} setSelected={setSelected} />
+      </div>
+      <div className="">
+        <p className="text-3xl font-semibold py-4 px-4">
+          {selected}&nbsp; videos
+        </p>
+        <Videos videos={videos} />
+      </div>
     </div>
   );
 }

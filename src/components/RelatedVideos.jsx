@@ -11,7 +11,8 @@ export default function RelatedVideos({ videos }) {
               key={video.id.videoId}
               video={video}
               direction="row"
-              size="default"
+              size="medium"
+              display="none"
             />
           ))}
         </ul>

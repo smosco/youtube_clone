@@ -12,6 +12,7 @@ export default function VideoDetail() {
   const [videoDetail, setVideoDetail] = useState([]);
   const [relatedVideos, setRelatedVideos] = useState([]);
   const [comments, setComments] = useState([]);
+  const [fold, setFold] = useState(true);
 
   useEffect(() => {
     // fetchFromAPI(
@@ -42,7 +43,7 @@ export default function VideoDetail() {
 
   //이상하게 ?를 붙이면 잘 되고 안 붙이면 not found가 뜬다.
   return (
-    <div className="flex flex-col lg:flex-row p-[24px]">
+    <div className="flex flex-col lg:flex-row p-[24px] lg:gap-4">
       <div className="basis-4/6">
         <iframe
           className=""
@@ -59,7 +60,17 @@ export default function VideoDetail() {
             {viewCount}&nbsp;views&nbsp;
             {publishedAt.slice(0, 10)}
           </div>
-          <p className="whitespace-pre-wrap">{description}</p>
+          <p className="whitespace-pre-wrap">
+            {fold ? description.slice(0, 200) + "..." : description}
+          </p>
+          <button
+            className="font-semibold text-blue-500"
+            onClick={() => {
+              setFold((prev) => !prev);
+            }}
+          >
+            {fold ? "show more" : "show less"}
+          </button>
         </div>
         <Comments comments={comments} />
       </div>

@@ -4,7 +4,7 @@ import { fakeFetch, fetchFromAPI } from "../utils/fetchFromAPI";
 import { numFormat } from "../utils/count";
 import Loader from "./Loader";
 
-export default function ChannelInfo({ id, title }) {
+export default function ChannelInfo({ id, title, display }) {
   const [channelDetail, setChannelDetail] = useState([]);
   const navigate = useNavigate();
   useEffect(() => {
@@ -29,11 +29,11 @@ export default function ChannelInfo({ id, title }) {
 
   return (
     <div
-      className="flex my-2 items-center"
+      className="flex my-2 items-center cursor-pointer"
       onClick={() => navigate(`/channel/${id}`, { state: { channelDetail } })}
     >
-      <img className="rounded-full w-11 h-11 shrink-0" src={url} alt={title} />
-      <div className="ml-2">
+      <img className="rounded-full w-10 h-10" src={url} alt={title} />
+      <div className={`ml-2 ${display === "none" && "hidden"}`}>
         <p className="text-lg font-semibold">{title}</p>
         <p className="text-sm text-gray-500">
           {numFormat(parseInt(subscriberCount))}&nbsp;subscribers
