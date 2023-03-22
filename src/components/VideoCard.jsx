@@ -12,7 +12,7 @@ export default function VideoCard({ video, direction, size, display }) {
     <div className={`w-full flex flex-${direction}`}>
       <Link
         className={`${
-          direction === "row" ? "w-[200px] mr-2" : "w-full"
+          direction === "row" ? "w-[200px] mr-2" : "w-full mb-2"
         } rounded-xl overflow-hidden shrink-0`}
         to={id.videoId && `/watch/${id.videoId}`}
       >
@@ -26,22 +26,16 @@ export default function VideoCard({ video, direction, size, display }) {
           alt={id.videoId}
         />
       </Link>
-      <div
-        className={`flex items-start gap-2${
-          direction === "row" ? "w-[200px]" : "w-full mt-2"
-        } rounded-xl overflow-hidden shrink-0`}
-      >
+      <div className="flex gap-2">
         <div className={`shrink-0 ${display === "none" && "hidden"}`}>
           <ChannelInfo id={channelId} title={channelTitle} display="none" />
         </div>
         <div className="">
           <Link to={id.videoId && `/watch/${id.videoId}`}>
-            <p className="font-semibold text-lg leading-5 line-clamp-2">
-              {title}
-            </p>
-            <p className="text-md text-gray-500">{formatAgo(publishedAt)}</p>
+            <p className="text-md leading-5 line-clamp-2">{title}</p>
+            <p className="text-sm text-gray-500">{formatAgo(publishedAt)}</p>
           </Link>
-          <Link className="text-md text-gray-500" to={`/channel/${channelId}`}>
+          <Link className="text-sm text-gray-500" to={`/channel/${channelId}`}>
             {channelTitle}
           </Link>
         </div>

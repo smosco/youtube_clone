@@ -21,7 +21,7 @@ export default function Feed() {
         <Sidebar selected={selected} setSelected={setSelected} />
       </div>
       <div className="">
-        <p className="text-3xl font-semibold py-4 px-4">
+        <p className="text-2xl font-semibold pt-2 pb-4 px-4">
           {selected}&nbsp; videos
         </p>
         <Videos videos={videos} />

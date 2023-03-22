@@ -16,7 +16,10 @@ export default function SearchFeed() {
   }, [searchTerm]);
   return (
     <div>
-      <div>This is the results about {searchTerm}</div>
+      <div className="text-xl m-4 font-semibold">
+        This is the results about&nbsp;
+        <span className="text-red-600">"{searchTerm}"</span>
+      </div>
       <Videos videos={videos} />
     </div>
   );
