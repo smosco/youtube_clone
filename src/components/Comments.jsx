@@ -4,9 +4,12 @@ import CommentCard from "./CommentCard";
 export default function Comments({ comments }) {
   return (
     <div>
-      {comments.map((comment) => (
-        <CommentCard comment={comment} />
-      ))}
+      <p className="text-xl my-4">Comments</p>
+      <div className="flex flex-col gap-3 mt-4">
+        {comments.map((comment) => (
+          <CommentCard comment={comment} />
+        ))}
+      </div>
     </div>
   );
 }

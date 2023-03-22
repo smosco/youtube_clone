@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { Link } from "react-router-dom";
 
 export default function CommentCard({ comment }) {
@@ -17,19 +17,32 @@ export default function CommentCard({ comment }) {
       },
     },
   } = comment;
+  const [fold, setFold] = useState(true);
 
   // const {
   //   snippet: { title, channelId, channelTitle },
   //   statistics: { viewCount, likeCount },
   // } = videoDetail;
   return (
-    <div className="flex">
+    <div className="flex gap-3">
       <Link to={`/channel/${value}`}>
-        <img src={authorProfileImageUrl} alt="" />
+        <img className="rounded-full" src={authorProfileImageUrl} alt="" />
       </Link>
       <div>
-        <p>{authorDisplayName}</p>
-        <p>{textDisplay}</p>
+        <p className="text-sm mb-1">{authorDisplayName}</p>
+        <div>
+          <p className="mb-1">
+            {fold ? textDisplay.slice(0, 50) + "..." : textDisplay}
+          </p>
+          <button
+            className="text-gray-600 font-semibold"
+            onClick={() => {
+              setFold((prev) => !prev);
+            }}
+          >
+            {fold ? "Read more" : "Show less"}
+          </button>
+        </div>
       </div>
     </div>
   );
