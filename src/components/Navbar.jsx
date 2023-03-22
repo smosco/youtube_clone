@@ -26,15 +26,16 @@ export default function Navbar() {
         }}
       >
         <input
-          className="w-7/12 p-2 outline-none bg-black text-gray"
+          className="w-7/12 px-4 py-2 border-[1px] border-gray-300 rounded-l-2xl text-gray"
           type="text"
+          required
           placeholder="Search..."
           value={text}
           onChange={(e) => {
             setText(e.target.value);
           }}
         />
-        <button className="bg-zinx-600 px-4">
+        <button className="bg-gray-100 border-[1px] border-gray-300 px-4 rounded-r-2xl hover:bg-gray-200">
           <AiOutlineSearch />
         </button>
       </form>

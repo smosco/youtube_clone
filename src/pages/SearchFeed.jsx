@@ -12,7 +12,7 @@ export default function SearchFeed() {
     // fetchFromAPI(`search?part=snippet&q=${searchTerm}&maxResults=50`).then(
     //   (data) => setVideos(data)
     // );
-    fakeFetch("data/search.json").then((data) => setVideos(data));
+    fakeFetch("/data/search.json").then((data) => setVideos(data));
   }, [searchTerm]);
   return (
     <div>

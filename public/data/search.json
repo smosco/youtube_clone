@@ -44,34 +44,6 @@
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "TX0zM9cBjM4gx89iO2SwreqEe-Q",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UC0v-tlzsn0QZwJnkiaUSJVQ"
-      },
-      "snippet": {
-        "publishedAt": "2007-06-04T09:55:54Z",
-        "channelId": "UC0v-tlzsn0QZwJnkiaUSJVQ",
-        "title": "REACT",
-        "description": "Welcome to REACT! From our award-winning REACT series, to shows across scripted, unscripted, animation, interactive, ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/ytc/AMLnZu-tU3VE5SvaqTnbyed6Ohr2P4JNRik_D6pXorD1zA=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/ytc/AMLnZu-tU3VE5SvaqTnbyed6Ohr2P4JNRik_D6pXorD1zA=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/ytc/AMLnZu-tU3VE5SvaqTnbyed6Ohr2P4JNRik_D6pXorD1zA=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "REACT",
-        "liveBroadcastContent": "upcoming",
-        "publishTime": "2007-06-04T09:55:54Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "bqWWfc_pId5qTRwfnibMp_zTDHA",
       "id": {
         "kind": "youtube#video",

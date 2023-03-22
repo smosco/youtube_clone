@@ -17,7 +17,7 @@ export default function Feed() {
   }, []);
   return (
     <div className="flex">
-      <Sidebar selected={selected} setSelected={setSelected} />
+      {/* <Sidebar selected={selected} setSelected={setSelected} /> */}
       <Videos videos={videos} />
     </div>
   );

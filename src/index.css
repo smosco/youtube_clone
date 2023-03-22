@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 body {
+  box-sizing: border-box;
+  padding: 0;
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
     "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
@@ -12,7 +14,8 @@ body {
   width: 100vw;
   height: 100vh;
   @apply flex flex-col items-center;
-  @apply bg-zinc-900 text-gray-50;
+
+  @apply bg-[#ffff] text-[#0f0f0f];
 }
 
 #root {

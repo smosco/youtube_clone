@@ -1,10 +1,11 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
 import { fakeFetch, fetchFromAPI } from "../utils/fetchFromAPI";
-import Videos from "../components/Videos";
 import { Link } from "react-router-dom";
 import Loader from "../components/Loader";
 import Comments from "../components/Comments";
+import RelatedVideos from "../components/RelatedVideos";
+import ChannelInfo from "../components/ChannelInfo";
 
 export default function VideoDetail() {
   const { videoId } = useParams();
@@ -41,24 +42,36 @@ export default function VideoDetail() {
 
   //이상하게 ?를 붙이면 잘 되고 안 붙이면 not found가 뜬다.
   return (
-    <div className="flex">
-      <div>
+    <div className="flex flex-col lg:flex-row p-[24px]">
+      <div className="basis-4/6">
         <iframe
+          className=""
           id="player"
+          width="100%"
+          height="640"
           type="text/html"
-          width="640"
-          height="360"
           src={`http://www.youtube.com/embed/${videoId}`}
-          frameborder="0"
+          frameBorder="0"
         ></iframe>
-        <div className="content">{videoDetail?.snippet?.title}</div>
-        <Link to={`/channel/${videoDetail?.snippet?.channelId}`}>
-          {videoDetail?.snippet?.channelTitle}
-        </Link>
-        <div>{videoDetail?.statistics?.viewCount}</div>
+        <div className="text-xl font-bold">{videoDetail?.snippet?.title}</div>
+        <ChannelInfo
+          channelId={videoDetail.snippet.channelId}
+          channelTitle={videoDetail.snippet.channelTitle}
+        />
+        <div className="bg-gray-200 p-4 rounded-xl">
+          <p className="whitespace-pre-wrap">
+            {videoDetail?.snippet?.description}
+          </p>
+          <Link to={`/channel/${videoDetail?.snippet?.channelId}`}>
+            {videoDetail?.snippet?.channelTitle}
+          </Link>
+          <div>{videoDetail?.statistics?.viewCount}</div>
+        </div>
+        <Comments comments={comments} />
       </div>
-      <Comments comments={comments} />
-      <Videos videos={relatedVideos} />
+      <div className="basis-2/6">
+        <RelatedVideos videos={relatedVideos} />
+      </div>
     </div>
   );
 }
