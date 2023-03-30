@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+postman대신 rapid api를 사용하여 구현
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+mock 데이터 사용
 
-## Available Scripts
+반응형 웹 구현
 
-In the project directory, you can run:
+재사용 가능한 컴포넌트 구
 
-### `yarn start`
+포폴 리드미에서는 프로젝트의 페이지 구조를 보여줄것
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+트렌드, 음악, 게임, 카테고리 별로 데이터를 불러오도록 함 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+⇒ 카테고리가 변경될때 useEffect에 디펜던시로 카테고리를 넣고 fetch하도록 만듦
 
-### `yarn test`
+⇒ 추후 fetch를 axios로 변경
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+서치기능을 추가함
 
-### `yarn build`
+네트워크 통신을 하는 코드는 api파일에서 따로 관리함
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+api키는 git에 올라가지 않도록 .env파일에 넣어서 관리하고 gitignore하도록 함
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+특정 비디오 카드를 클릭하면 비디오의 아이디 페이지로 이동하는데 처음에는 id를 useparams로 받아와서 다시 id별로 fetch를 다시하려했으나 비효율적이라고 판단해 useNavigate의 useLocation매소드를 사용해서 비디오 정보를 넘김
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+비디오 카드의 채널썸네일을 클릭하면 채널 페이지로 이동하도록 만듦
 
-### `yarn eject`
+⇒ 이거 할때 채널 디테일 컴포넌트를 어떻게 나눠야 할지 고민을 많이함
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+⇒ 컴포넌트를 나누는 기준이 뭔지 공부함 기능, 오로지 반복되는 디자인(버튼), like처럼 작지만 네트워크 통신도 해야하고 하는 친구들
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+채널 설명이나, 댓글이 너무 긴경우 readmore을 눌러야 전체를 확인할 수 있도록 아코디언 구현
