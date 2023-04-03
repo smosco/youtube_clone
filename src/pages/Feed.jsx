@@ -9,10 +9,10 @@ export default function Feed() {
   const [selected, setSelected] = useState("Trending");
 
   useEffect(() => {
-    fetchFromAPI(`search?part=snippet&q=${selected}`).then((data) =>
-      setVideos(data)
-    );
-    // fakeFetch("data/search.json").then((data) => setVideos(data));
+    // fetchFromAPI(`search?part=snippet&q=${selected}`).then((data) =>
+    //   setVideos(data)
+    // );
+    fakeFetch("data/search.json").then((data) => setVideos(data));
   }, [selected]);
   return (
     <div className="flex flex-col md:flex-row">

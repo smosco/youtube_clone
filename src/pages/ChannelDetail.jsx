@@ -25,18 +25,20 @@ export default function ChannelDetail() {
   const [channelDetail, setChannelDetail] = useState([]);
 
   useEffect(() => {
-    // 특정 channelId의 정보를 가져옴
-    fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${channelId}`).then(
-      (data) => setChannelDetail(data[0])
+    // // 특정 channelId의 정보를 가져옴
+    // fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${channelId}`).then(
+    //   (data) => setChannelDetail(data[0])
+    // );
+
+    // // 특정 channelId의 videos을 가져옴
+    // fetchFromAPI(
+    //   `search?channelId=${channelId}&part=snippet%2Cid&order=date`
+    // ).then((data) => setChannelVideos(data));
+
+    fakeFetch("/data/channelDetail.json").then((data) =>
+      setChannelDetail(data[0])
     );
-
-    // 특정 channelId의 videos을 가져옴
-    fetchFromAPI(
-      `search?channelId=${channelId}&part=snippet%2Cid&order=date`
-    ).then((data) => setChannelVideos(data));
-
-    //  fakeFetch("/data/channelDetail.json").then(data=> setChannelDetail(data[0]));
-    //  fakeFetch("/data/channelVideo.json").then(data=> setChannelVideos(data));
+    fakeFetch("/data/channelVideo.json").then((data) => setChannelVideos(data));
   }, [channelId]);
 
   if (!channelDetail?.snippet) {

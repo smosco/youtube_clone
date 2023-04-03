@@ -16,24 +16,26 @@ export default function VideoDetail() {
   const [fold, setFold] = useState(true);
 
   useEffect(() => {
-    // 특정 id의 video 정보를 불러옴
-    fetchFromAPI(
-      `videos?part=contentDetails%2Csnippet%2Cstatistics&id=${videoId}`
-    ).then((data) => setVideoDetail(data[0]));
+    // // 특정 id의 video 정보를 불러옴
+    // fetchFromAPI(
+    //   `videos?part=contentDetails%2Csnippet%2Cstatistics&id=${videoId}`
+    // ).then((data) => {
+    //   setVideoDetail(data[0]);
+    // });
 
-    // 특정 id의 video와 연관된 videos를 불러옴
-    fetchFromAPI(
-      `search?relatedToVideoId=${videoId}&part=id%2Csnippet&type=video`
-    ).then((data) => setRelatedVideos(data));
+    // // 특정 id의 video와 연관된 videos를 불러옴
+    // fetchFromAPI(
+    //   `search?relatedToVideoId=${videoId}&part=id%2Csnippet&type=video`
+    // ).then((data) => setRelatedVideos(data));
 
-    //특정 id의 video에 대한 comments를 불러옴
-    fetchFromAPI(
-      `commentThreads?part=snippet&videoId=${videoId}&maxResults=20`
-    ).then((data) => setComments(data));
+    // //특정 id의 video에 대한 comments를 불러옴
+    // fetchFromAPI(
+    //   `commentThreads?part=snippet&videoId=${videoId}&maxResults=20`
+    // ).then((data) => setComments(data));
 
-    // fakeFetch("/data/videoDetail.json").then((data) => setVideoDetail(data[0]));
-    // fakeFetch("/data/related.json").then((data) => setRelatedVideos(data));
-    // fakeFetch("/data/comments.json").then((data) => setComments(data));
+    fakeFetch("/data/videoDetail.json").then((data) => setVideoDetail(data[0]));
+    fakeFetch("/data/related.json").then((data) => setRelatedVideos(data));
+    fakeFetch("/data/comments.json").then((data) => setComments(data));
   }, [videoId]);
 
   if (!videoDetail?.snippet) return <Loader />;

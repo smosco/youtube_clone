@@ -24,8 +24,8 @@ export const fetchFromAPI = async (url) => {
 };
 
 export const fakeFetch = async (url) => {
-  const data = await fetch(url)
-    .then((res) => res.json())
-    .then((data) => data.items);
+  const data = await axios //
+    .get(url) //
+    .then((res) => res.data.items);
   return data; //꼭 리턴 해주기
 };
