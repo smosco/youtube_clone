@@ -19,10 +19,6 @@ export default function CommentCard({ comment }) {
   } = comment;
   const [fold, setFold] = useState(true);
 
-  // const {
-  //   snippet: { title, channelId, channelTitle },
-  //   statistics: { viewCount, likeCount },
-  // } = videoDetail;
   return (
     <div className="flex gap-3">
       <Link to={`/channel/${value}`}>

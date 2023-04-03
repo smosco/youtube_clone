@@ -27,9 +27,9 @@ export default function VideoDetail() {
     ).then((data) => setRelatedVideos(data));
 
     //특정 id의 video에 대한 comments를 불러옴
-    fetchFromAPI(`commentThreads?part=snippet&videoId=${videoId}`).then(
-      (data) => setComments(data)
-    );
+    fetchFromAPI(
+      `commentThreads?part=snippet&videoId=${videoId}&maxResults=20`
+    ).then((data) => setComments(data));
 
     // fakeFetch("/data/videoDetail.json").then((data) => setVideoDetail(data[0]));
     // fakeFetch("/data/related.json").then((data) => setRelatedVideos(data));
