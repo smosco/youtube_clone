@@ -17,8 +17,7 @@ export default function ChannelInfo({ id, title, display }) {
   }, [id]);
 
   // channelDetail은 []로 초기값이 있으니 받아와야 있을수있는 snippet이 있는지 확인하고 없으면 로더를 보여준다.
-  // 있으면 const 만들고 넘어간다.
-  if (!channelDetail?.snippet) return <Loader />;
+  !channelDetail?.snippet && <Loader />;
 
   const {
     snippet: {
