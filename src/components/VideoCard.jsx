@@ -9,7 +9,9 @@ export default function VideoCard({ video, direction, size, display }) {
     snippet: { title, channelId, channelTitle, thumbnails, publishedAt },
   } = video;
   return (
-    <div className={`w-full flex flex-${direction}`}>
+    <div
+      className={`w-full flex flex-${direction} hover:scale-95 transition-all`}
+    >
       <Link
         className={`${
           direction === "row" ? "w-[200px] mr-2" : "w-full mb-2"
@@ -32,7 +34,9 @@ export default function VideoCard({ video, direction, size, display }) {
         </div>
         <div className="">
           <Link to={id.videoId && `/watch/${id.videoId}`}>
-            <p className="text-md leading-5 line-clamp-2">{title}</p>
+            <p className="text-md leading-5 line-clamp-2">
+              {title.length > 60 ? title.slice(0, 60) + "..." : title}
+            </p>
             <p className="text-sm text-gray-500">{formatAgo(publishedAt)}</p>
           </Link>
           <Link className="text-sm text-gray-500" to={`/channel/${channelId}`}>
