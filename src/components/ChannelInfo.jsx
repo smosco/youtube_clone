@@ -9,11 +9,11 @@ export default function ChannelInfo({ id, title, display }) {
   const navigate = useNavigate();
   useEffect(() => {
     // 특정 channelId의 채널 정보를 받아옴
-    fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${id}`) //
-      .then((data) => setChannelDetail(data[0]));
-    // fakeFetch("/data/channelDetail.json").then((data) =>
-    //   setChannelDetail(data[0])
-    // );
+    // fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${id}`) //
+    //   .then((data) => setChannelDetail(data[0]));
+    fakeFetch("/data/channelDetail.json").then((data) =>
+      setChannelDetail(data[0])
+    );
   }, [id]);
 
   // channelDetail은 []로 초기값이 있으니 받아와야 있을수있는 snippet이 있는지 확인하고 없으면 로더를 보여준다.
