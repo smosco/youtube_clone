@@ -13,10 +13,14 @@ const options = {
 };
 
 export const fetchFromAPI = async (url) => {
-  const data = await axios
-    .get(`${BASE_URL}/${url}`, options)
-    .then((res) => res.data.items);
-  return data; //꼭 리턴 해주기
+  try {
+    const data = await axios
+      .get(`${BASE_URL}/${url}`, options)
+      .then((res) => res.data.items);
+    return data; //꼭 리턴 해주기
+  } catch (err) {
+    console.log(err.message);
+  }
 };
 
 export const fakeFetch = async (url) => {

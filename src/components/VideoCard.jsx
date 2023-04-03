@@ -10,7 +10,9 @@ export default function VideoCard({ video, direction, size, display }) {
   } = video;
   return (
     <div
-      className={`w-full flex flex-${direction} hover:scale-95 transition-all`}
+      className={`w-full flex flex-${direction} hover:scale-95 transition-all ${
+        !id.videoId && "hidden"
+      }`}
     >
       <Link
         className={`${

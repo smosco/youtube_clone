@@ -4,6 +4,7 @@ import { fakeFetch, fetchFromAPI } from "../utils/fetchFromAPI";
 import Videos from "../components/Videos";
 import { numFormat } from "../utils/count";
 import Loader from "../components/Loader";
+import Button from "../components/ui/Button";
 
 export default function ChannelDetail() {
   // const {
@@ -52,19 +53,21 @@ export default function ChannelDetail() {
     statistics: { subscriberCount },
   } = channelDetail;
 
-  // console.log(channelDetail, channelVideos);
   return (
-    <div className="flex flex-col gap-6 px-12">
+    <div className="flex flex-col gap-6 px-12 w-full">
       <div className="flex items-center gap-4 border-b-[1px] pb-6">
         <img className="w-24 h-24 rounded-full" src={url} alt={title} />
-        <div>
-          <p className="text-3xl">{title}</p>
-          {subscriberCount && (
-            <p className="text-md text-gray-500">
-              {numFormat(parseInt(subscriberCount))}
-              &nbsp;subscribers
-            </p>
-          )}
+        <div className="w-full flex justify-between items-center">
+          <div>
+            <p className="text-3xl">{title}</p>
+            {subscriberCount && (
+              <p className="text-md text-gray-500">
+                {numFormat(parseInt(subscriberCount))}
+                &nbsp;subscribers
+              </p>
+            )}
+          </div>
+          <Button />
         </div>
       </div>
       <Videos videos={channelVideos} />

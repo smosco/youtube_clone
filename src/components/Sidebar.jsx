@@ -3,7 +3,7 @@ import { categories } from "../utils/constants";
 
 export default function Sidebar({ selected, setSelected }) {
   return (
-    <div className="flex flex-row overflow-x-scroll md:flex-col md:h-[95%] p-2 gap-2">
+    <div className="flex flex-row overflow-x-scroll md:flex-col md:overflow-x-auto md:h-[95%] p-2 gap-2">
       {categories.map((item) => (
         <button
           className="flex items-center text-lg p-2 rounded-lg"

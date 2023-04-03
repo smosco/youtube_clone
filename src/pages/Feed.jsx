@@ -7,7 +7,6 @@ import Sidebar from "../components/Sidebar";
 export default function Feed() {
   const [videos, setVideos] = useState([]);
   const [selected, setSelected] = useState("Trending");
-  console.log(videos);
 
   useEffect(() => {
     fetchFromAPI(`search?part=snippet&q=${selected}`).then((data) =>

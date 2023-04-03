@@ -6,6 +6,7 @@ import Loader from "../components/Loader";
 import Comments from "../components/Comments";
 import RelatedVideos from "../components/RelatedVideos";
 import ChannelInfo from "../components/ChannelInfo";
+import Button from "../components/ui/Button";
 
 export default function VideoDetail() {
   const { videoId } = useParams();
@@ -35,8 +36,6 @@ export default function VideoDetail() {
     // fakeFetch("/data/comments.json").then((data) => setComments(data));
   }, [videoId]);
 
-  console.log(relatedVideos, videoDetail);
-
   if (!videoDetail?.snippet) return <Loader />;
 
   const {
@@ -55,9 +54,12 @@ export default function VideoDetail() {
           type="text/html"
           src={`http://www.youtube.com/embed/${videoId}`}
         ></iframe>
-        <div className="text-xl font-semibold mt-2">{title}</div>
-        <ChannelInfo id={channelId} title={channelTitle} />
-        <div className="bg-gray-200 p-4 rounded-xl">
+        <div className="text-xl font-semibold mt-4">{title}</div>
+        <div className="flex justify-between items-center mt-2">
+          <ChannelInfo id={channelId} title={channelTitle} />
+          <Button />
+        </div>
+        <div className="bg-gray-200 p-4 rounded-xl mt-4">
           <div className="font-semibold">
             {viewCount}&nbsp;views&nbsp;
             {publishedAt.slice(0, 10)}
