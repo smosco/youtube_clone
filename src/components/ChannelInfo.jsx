@@ -8,11 +8,12 @@ export default function ChannelInfo({ id, title, display }) {
   const [channelDetail, setChannelDetail] = useState([]);
   const navigate = useNavigate();
   useEffect(() => {
-    // fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${id}`).then(
-    //   (data) => setChannelDetail(data[0])
-    fakeFetch("/data/channelDetail.json").then((data) =>
-      setChannelDetail(data[0])
-    );
+    // 특정 channelId의 채널 정보를 받아옴
+    fetchFromAPI(`channels?part=snippet%2Cstatistics&id=${id}`) //
+      .then((data) => setChannelDetail(data[0]));
+    // fakeFetch("/data/channelDetail.json").then((data) =>
+    //   setChannelDetail(data[0])
+    // );
   }, [id]);
 
   // channelDetail은 []로 초기값이 있으니 받아와야 있을수있는 snippet이 있는지 확인하고 없으면 로더를 보여준다.
@@ -32,7 +33,6 @@ export default function ChannelInfo({ id, title, display }) {
     <Link
       to={`/channel/${id}`}
       className="flex my-2 items-center cursor-pointer"
-      // onClick={() => navigate(`/channel/${id}`, { state: { channelDetail } })}
     >
       <img className="rounded-full w-10 h-10" src={url} alt={title} />
       <div className={`ml-2 ${display === "none" && "hidden"}`}>

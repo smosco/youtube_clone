@@ -10,10 +10,10 @@ export default function Feed() {
   console.log(videos);
 
   useEffect(() => {
-    // fetchFromAPI(`search?part=snippet&q=${selected}&maxResults=50`).then(
-    //   (data) => setVideos(data)
-    // );
-    fakeFetch("data/search.json").then((data) => setVideos(data));
+    fetchFromAPI(`search?part=snippet&q=${selected}`).then((data) =>
+      setVideos(data)
+    );
+    // fakeFetch("data/search.json").then((data) => setVideos(data));
   }, [selected]);
   return (
     <div className="flex flex-col md:flex-row">

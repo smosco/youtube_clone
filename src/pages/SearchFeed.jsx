@@ -6,13 +6,11 @@ import Videos from "../components/Videos";
 
 export default function SearchFeed() {
   const { searchTerm } = useParams();
-  // console.log(searchTerm);
   const [videos, setVideos] = useState([]);
   useEffect(() => {
-    // fetchFromAPI(`search?part=snippet&q=${searchTerm}&maxResults=50`).then(
-    //   (data) => setVideos(data)
-    // );
-    fakeFetch("/data/search.json").then((data) => setVideos(data));
+    fetchFromAPI(`search?part=snippet&q=${searchTerm}`) //
+      .then((data) => setVideos(data));
+    // fakeFetch("/data/search.json").then((data) => setVideos(data));
   }, [searchTerm]);
   return (
     <div>
