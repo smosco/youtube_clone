@@ -8,7 +8,7 @@
   
 <img width="100%" alt="thumbnail" src="https://user-images.githubusercontent.com/69305320/116347815-e1c66a80-a827-11eb-9e32-6a7ccb82031c.PNG">
   
-### 👉 [Live Demo](https://vintztube.netlify.app)
+### 👉 [Live Demo](https://pangtube.netlify.app)
 
 
 ## **📜 Description**
