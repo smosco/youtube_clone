@@ -6,7 +6,8 @@
 <img src="https://img.shields.io/badge/Rapid API-indigo">
 </p>
   
-<img width="100%" alt="thumbnail" src="https://user-images.githubusercontent.com/69305320/116347815-e1c66a80-a827-11eb-9e32-6a7ccb82031c.PNG">
+![pangtube](https://user-images.githubusercontent.com/62870362/230263427-e91fb02b-292e-42aa-be3a-a29491ad5b11.png)
+
   
 ### 👉 [Live Demo](https://pangtube.netlify.app)
 
