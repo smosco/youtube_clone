@@ -1,4 +1,4 @@
-<h1 style="text-align:center"><b>Youtube Clone</b></h1>
+# Youtube Clone
 <p align="center">
 <img src="https://img.shields.io/badge/made by-smosco-red">
 <img src="https://img.shields.io/badge/React-blue">
@@ -8,7 +8,7 @@
   
 <img width="100%" alt="thumbnail" src="https://user-images.githubusercontent.com/69305320/116347815-e1c66a80-a827-11eb-9e32-6a7ccb82031c.PNG">
   
-<h2 align="center"><a href="https://pangtube.netlify.app/"><b> Live Demo (Click Here!🌟) </b></a></h2>  
+### 👉 [Live Demo](https://vintztube.netlify.app)
 
 
 ## **📜 Description**
@@ -43,10 +43,9 @@ Youtube에서 제공하는 Data API를 이용한 클론 코딩 프로젝트�
 ### **✅ 로딩 스피너**
 📌 서버에서 데이터를 받아오는 동안 로딩 중임을 사용자가 인지할 수 있도록 로딩 스피너를 구현했습니다.
 
-# **Future scope**
+## **Future scope**
 
 - Firebase 로그인 기능 추가하기
 - 실시간 데이터베이스를 더해 개인 id별로 '좋아요'한 동영상 저장할 수 있게 하기
 - 영상 플레이 화면에서 버튼들('좋아요', '싫어요', ...) 활성화 하기
 - 다크모드, 라이트 모드 전활할 수 있게 하기
-
